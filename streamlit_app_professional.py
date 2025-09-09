@@ -98,14 +98,20 @@ def load_data(path="master_database_detailed.csv"):
 
 # Color and style helpers
 def get_color_scheme():
+    # Distinct, high-contrast palette for topics 0-9 (no duplicates)
     return {
-        0: '#1f77b4',  # Blue
-        1: '#ff7f0e',  # Orange
-        2: '#2ca02c',  # Green
-        3: '#d62728',  # Red
-        4: '#9467bd',  # Purple
-        5: '#8c564b'   # Brown
+        0: '#1f77b4',  # blue
+        1: '#ff7f0e',  # orange
+        2: '#2ca02c',  # green
+        3: '#d62728',  # red
+        4: '#9467bd',  # purple
+        5: '#8c564b',  # brown
+        6: '#e377c2',  # pink
+        7: '#7f7f7f',  # grey
+        8: '#bcbd22',  # olive
+        9: '#17becf',  # cyan
     }
+
 
 def get_line_styles():
     return {
@@ -135,10 +141,20 @@ with st.spinner("Loading publication data..."):
 
 # Create mapping for topics
 topic_map = df[['Search_Topic_ID', 'Search_Topic']].drop_duplicates().set_index('Search_Topic_ID')['Search_Topic'].to_dict()
-# Ensure topics 0-5 present
-for tid in range(6):
+# Ensure topics 0-9 present (add IL topics 6-9 if available in master)
+for tid in range(10):
     if tid not in topic_map:
-        topic_map[tid] = f"Topic {tid}"
+        # provide readable defaults for IL topics 6-9
+        if tid == 6:
+            topic_map[tid] = 'Ionic Liquids (All)'
+        elif tid == 7:
+            topic_map[tid] = 'ILs in Electrochemistry'
+        elif tid == 8:
+            topic_map[tid] = 'ILs in Electrochemical Manufacturing'
+        elif tid == 9:
+            topic_map[tid] = 'Elevated-T IL Electrochemical Manufacturing'
+        else:
+            topic_map[tid] = f"Topic {tid}"
 
 # Header
 st.markdown('<div class="main-header">Publication Trends Analysis (1975–2024)</div>', unsafe_allow_html=True)
@@ -191,6 +207,19 @@ with col_controls:
         default=['TS'],
         help="Choose different search scopes: TS (broadest), TI (most specific), or KW (moderate scope)"
     )
+
+    # Enforce topics 6-9 only available when TS is selected
+    if selected_topics:
+        ts_allowed = 'TS' in selected_levels
+        forbidden = [t for t in selected_topics if t >= 6 and not ts_allowed]
+        if forbidden:
+            # remove forbidden topics from selection
+            selected_topic_ids = [t for t in selected_topics if t not in forbidden]
+            st.info("Topics 6-9 (IL-specific) are only available for Topic Search (TS). Removed them from the selection until TS is enabled.")
+        else:
+            selected_topic_ids = selected_topics
+    else:
+        selected_topic_ids = selected_topics
 
     # Year range
     min_year = max(1975, int(df['Year'].min()))

@@ -1,0 +1,23 @@
+Search_Topic_ID,Search_Topic,Search_Level,Record_Count
+0,Electrochemistry,KW,551004
+0,Electrochemistry,TI,278841
+0,Electrochemistry,TS,1405680
+1,Electrochemical Manufacturing,KW,78752
+1,Electrochemical Manufacturing,TI,27129
+1,Electrochemical Manufacturing,TS,665970
+2,Temperature in Electrochemistry,KW,29564
+2,Temperature in Electrochemistry,TI,4719
+2,Temperature in Electrochemistry,TS,324239
+3,Temperature in Electrochemical Manufacturing,KW,5191
+3,Temperature in Electrochemical Manufacturing,TI,544
+3,Temperature in Electrochemical Manufacturing,TS,201315
+4,Elevated-Temperature in Electrochemistry,KW,5093
+4,Elevated-Temperature in Electrochemistry,TI,1164
+4,Elevated-Temperature in Electrochemistry,TS,54478
+5,Elevated-Temperature Electrochemical Manufacturing,KW,569
+5,Elevated-Temperature Electrochemical Manufacturing,TI,107
+5,Elevated-Temperature Electrochemical Manufacturing,TS,35042
+6,Ionic Liquids (All),TS,228293
+7,ILs in Electrochemistry,TS,44203
+8,ILs in Electrochemical Manufacturing,TS,23429
+9,Elevated-T IL Electrochemical Manufacturing,TS,1186

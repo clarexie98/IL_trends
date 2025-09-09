@@ -1,1338 +1,1598 @@
 Year,Search_Topic_ID,Search_Topic,Search_Level,Search_Level_Description,Record_Count
-1800,0,Electrochemistry,TS,Title + Abstract + Keywords,29
-1800,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,13
-1800,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,3
-1800,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
 1825,0,Electrochemistry,KW,Title + Keywords,2
 1900,0,Electrochemistry,KW,Title + Keywords,4
-1900,0,Electrochemistry,TI,Title Only,4
-1900,0,Electrochemistry,TS,Title + Abstract + Keywords,11
-1900,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
-1900,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
-1900,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
-1900,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
-1900,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
 1901,0,Electrochemistry,KW,Title + Keywords,22
-1901,0,Electrochemistry,TI,Title Only,22
-1901,0,Electrochemistry,TS,Title + Abstract + Keywords,24
 1902,0,Electrochemistry,KW,Title + Keywords,14
-1902,0,Electrochemistry,TI,Title Only,14
-1902,0,Electrochemistry,TS,Title + Abstract + Keywords,14
 1903,0,Electrochemistry,KW,Title + Keywords,17
-1903,0,Electrochemistry,TI,Title Only,17
-1903,0,Electrochemistry,TS,Title + Abstract + Keywords,18
-1903,1,Electrochemical Manufacturing,KW,Title + Keywords,1
-1903,1,Electrochemical Manufacturing,TI,Title Only,1
-1903,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
 1904,0,Electrochemistry,KW,Title + Keywords,10
-1904,0,Electrochemistry,TI,Title Only,10
-1904,0,Electrochemistry,TS,Title + Abstract + Keywords,10
 1905,0,Electrochemistry,KW,Title + Keywords,4
-1905,0,Electrochemistry,TI,Title Only,4
-1905,0,Electrochemistry,TS,Title + Abstract + Keywords,15
-1905,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,4
-1905,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,3
-1905,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
 1906,0,Electrochemistry,KW,Title + Keywords,12
-1906,0,Electrochemistry,TI,Title Only,12
-1906,0,Electrochemistry,TS,Title + Abstract + Keywords,13
 1907,0,Electrochemistry,KW,Title + Keywords,5
-1907,0,Electrochemistry,TI,Title Only,5
-1907,0,Electrochemistry,TS,Title + Abstract + Keywords,6
 1908,0,Electrochemistry,KW,Title + Keywords,13
-1908,0,Electrochemistry,TI,Title Only,13
-1908,0,Electrochemistry,TS,Title + Abstract + Keywords,13
-1908,2,Temperature in Electrochemistry,KW,Title + Keywords,1
-1908,2,Temperature in Electrochemistry,TI,Title Only,1
-1908,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
 1909,0,Electrochemistry,KW,Title + Keywords,14
-1909,0,Electrochemistry,TI,Title Only,14
-1909,0,Electrochemistry,TS,Title + Abstract + Keywords,14
 1910,0,Electrochemistry,KW,Title + Keywords,18
-1910,0,Electrochemistry,TI,Title Only,18
-1910,0,Electrochemistry,TS,Title + Abstract + Keywords,18
 1911,0,Electrochemistry,KW,Title + Keywords,16
-1911,0,Electrochemistry,TI,Title Only,16
-1911,0,Electrochemistry,TS,Title + Abstract + Keywords,16
 1912,0,Electrochemistry,KW,Title + Keywords,15
-1912,0,Electrochemistry,TI,Title Only,15
-1912,0,Electrochemistry,TS,Title + Abstract + Keywords,17
-1912,2,Temperature in Electrochemistry,KW,Title + Keywords,1
-1912,2,Temperature in Electrochemistry,TI,Title Only,1
-1912,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
 1913,0,Electrochemistry,KW,Title + Keywords,12
-1913,0,Electrochemistry,TI,Title Only,12
-1913,0,Electrochemistry,TS,Title + Abstract + Keywords,13
 1914,0,Electrochemistry,KW,Title + Keywords,5
-1914,0,Electrochemistry,TI,Title Only,5
-1914,0,Electrochemistry,TS,Title + Abstract + Keywords,6
 1915,0,Electrochemistry,KW,Title + Keywords,2
-1915,0,Electrochemistry,TI,Title Only,2
-1915,0,Electrochemistry,TS,Title + Abstract + Keywords,2
-1915,1,Electrochemical Manufacturing,KW,Title + Keywords,1
-1915,1,Electrochemical Manufacturing,TI,Title Only,1
-1915,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
 1916,0,Electrochemistry,KW,Title + Keywords,3
-1916,0,Electrochemistry,TI,Title Only,3
-1916,0,Electrochemistry,TS,Title + Abstract + Keywords,3
 1917,0,Electrochemistry,KW,Title + Keywords,1
-1917,0,Electrochemistry,TI,Title Only,1
-1917,0,Electrochemistry,TS,Title + Abstract + Keywords,2
 1918,0,Electrochemistry,KW,Title + Keywords,3
-1918,0,Electrochemistry,TI,Title Only,3
-1918,0,Electrochemistry,TS,Title + Abstract + Keywords,3
-1918,1,Electrochemical Manufacturing,KW,Title + Keywords,1
-1918,1,Electrochemical Manufacturing,TI,Title Only,1
-1918,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
 1919,0,Electrochemistry,KW,Title + Keywords,9
-1919,0,Electrochemistry,TI,Title Only,9
-1919,0,Electrochemistry,TS,Title + Abstract + Keywords,10
 1920,0,Electrochemistry,KW,Title + Keywords,11
-1920,0,Electrochemistry,TI,Title Only,11
-1920,0,Electrochemistry,TS,Title + Abstract + Keywords,12
-1920,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
 1921,0,Electrochemistry,KW,Title + Keywords,7
-1921,0,Electrochemistry,TI,Title Only,7
-1921,0,Electrochemistry,TS,Title + Abstract + Keywords,8
 1922,0,Electrochemistry,KW,Title + Keywords,15
-1922,0,Electrochemistry,TI,Title Only,15
-1922,0,Electrochemistry,TS,Title + Abstract + Keywords,16
 1923,0,Electrochemistry,KW,Title + Keywords,9
-1923,0,Electrochemistry,TI,Title Only,9
-1923,0,Electrochemistry,TS,Title + Abstract + Keywords,9
 1924,0,Electrochemistry,KW,Title + Keywords,12
-1924,0,Electrochemistry,TI,Title Only,12
-1924,0,Electrochemistry,TS,Title + Abstract + Keywords,14
 1925,0,Electrochemistry,KW,Title + Keywords,10
-1925,0,Electrochemistry,TI,Title Only,10
-1925,0,Electrochemistry,TS,Title + Abstract + Keywords,12
-1925,1,Electrochemical Manufacturing,KW,Title + Keywords,1
-1925,1,Electrochemical Manufacturing,TI,Title Only,1
-1925,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
 1926,0,Electrochemistry,KW,Title + Keywords,17
-1926,0,Electrochemistry,TI,Title Only,17
-1926,0,Electrochemistry,TS,Title + Abstract + Keywords,23
 1927,0,Electrochemistry,KW,Title + Keywords,12
-1927,0,Electrochemistry,TI,Title Only,12
-1927,0,Electrochemistry,TS,Title + Abstract + Keywords,22
 1928,0,Electrochemistry,KW,Title + Keywords,22
-1928,0,Electrochemistry,TI,Title Only,22
-1928,0,Electrochemistry,TS,Title + Abstract + Keywords,30
 1929,0,Electrochemistry,KW,Title + Keywords,13
-1929,0,Electrochemistry,TI,Title Only,13
-1929,0,Electrochemistry,TS,Title + Abstract + Keywords,17
-1929,2,Temperature in Electrochemistry,KW,Title + Keywords,1
-1929,2,Temperature in Electrochemistry,TI,Title Only,1
-1929,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
 1930,0,Electrochemistry,KW,Title + Keywords,21
-1930,0,Electrochemistry,TI,Title Only,21
-1930,0,Electrochemistry,TS,Title + Abstract + Keywords,25
 1931,0,Electrochemistry,KW,Title + Keywords,17
-1931,0,Electrochemistry,TI,Title Only,17
-1931,0,Electrochemistry,TS,Title + Abstract + Keywords,22
-1931,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
 1932,0,Electrochemistry,KW,Title + Keywords,15
-1932,0,Electrochemistry,TI,Title Only,15
-1932,0,Electrochemistry,TS,Title + Abstract + Keywords,23
-1932,2,Temperature in Electrochemistry,KW,Title + Keywords,1
-1932,2,Temperature in Electrochemistry,TI,Title Only,1
-1932,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
 1933,0,Electrochemistry,KW,Title + Keywords,15
-1933,0,Electrochemistry,TI,Title Only,15
-1933,0,Electrochemistry,TS,Title + Abstract + Keywords,20
 1934,0,Electrochemistry,KW,Title + Keywords,18
-1934,0,Electrochemistry,TI,Title Only,18
-1934,0,Electrochemistry,TS,Title + Abstract + Keywords,22
 1935,0,Electrochemistry,KW,Title + Keywords,28
-1935,0,Electrochemistry,TI,Title Only,28
-1935,0,Electrochemistry,TS,Title + Abstract + Keywords,36
 1936,0,Electrochemistry,KW,Title + Keywords,20
-1936,0,Electrochemistry,TI,Title Only,20
-1936,0,Electrochemistry,TS,Title + Abstract + Keywords,26
-1936,1,Electrochemical Manufacturing,KW,Title + Keywords,1
-1936,1,Electrochemical Manufacturing,TI,Title Only,1
-1936,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
 1937,0,Electrochemistry,KW,Title + Keywords,20
-1937,0,Electrochemistry,TI,Title Only,20
-1937,0,Electrochemistry,TS,Title + Abstract + Keywords,22
 1938,0,Electrochemistry,KW,Title + Keywords,17
-1938,0,Electrochemistry,TI,Title Only,17
-1938,0,Electrochemistry,TS,Title + Abstract + Keywords,22
 1939,0,Electrochemistry,KW,Title + Keywords,8
-1939,0,Electrochemistry,TI,Title Only,8
-1939,0,Electrochemistry,TS,Title + Abstract + Keywords,18
-1939,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
 1940,0,Electrochemistry,KW,Title + Keywords,11
-1940,0,Electrochemistry,TI,Title Only,11
-1940,0,Electrochemistry,TS,Title + Abstract + Keywords,23
-1940,1,Electrochemical Manufacturing,KW,Title + Keywords,1
-1940,1,Electrochemical Manufacturing,TI,Title Only,1
-1940,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
 1941,0,Electrochemistry,KW,Title + Keywords,7
-1941,0,Electrochemistry,TI,Title Only,7
-1941,0,Electrochemistry,TS,Title + Abstract + Keywords,13
-1941,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
 1942,0,Electrochemistry,KW,Title + Keywords,10
-1942,0,Electrochemistry,TI,Title Only,10
-1942,0,Electrochemistry,TS,Title + Abstract + Keywords,20
 1943,0,Electrochemistry,KW,Title + Keywords,7
-1943,0,Electrochemistry,TI,Title Only,7
-1943,0,Electrochemistry,TS,Title + Abstract + Keywords,17
 1944,0,Electrochemistry,KW,Title + Keywords,9
-1944,0,Electrochemistry,TI,Title Only,9
-1944,0,Electrochemistry,TS,Title + Abstract + Keywords,19
 1945,0,Electrochemistry,KW,Title + Keywords,8
-1945,0,Electrochemistry,TI,Title Only,8
-1945,0,Electrochemistry,TS,Title + Abstract + Keywords,13
-1945,1,Electrochemical Manufacturing,KW,Title + Keywords,2
-1945,1,Electrochemical Manufacturing,TI,Title Only,2
-1945,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
 1946,0,Electrochemistry,KW,Title + Keywords,13
-1946,0,Electrochemistry,TI,Title Only,13
-1946,0,Electrochemistry,TS,Title + Abstract + Keywords,22
-1946,1,Electrochemical Manufacturing,KW,Title + Keywords,1
-1946,1,Electrochemical Manufacturing,TI,Title Only,1
-1946,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
-1946,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
 1947,0,Electrochemistry,KW,Title + Keywords,14
-1947,0,Electrochemistry,TI,Title Only,14
-1947,0,Electrochemistry,TS,Title + Abstract + Keywords,31
-1947,1,Electrochemical Manufacturing,KW,Title + Keywords,1
-1947,1,Electrochemical Manufacturing,TI,Title Only,1
-1947,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
 1948,0,Electrochemistry,KW,Title + Keywords,15
-1948,0,Electrochemistry,TI,Title Only,15
-1948,0,Electrochemistry,TS,Title + Abstract + Keywords,23
-1948,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
 1949,0,Electrochemistry,KW,Title + Keywords,22
-1949,0,Electrochemistry,TI,Title Only,22
-1949,0,Electrochemistry,TS,Title + Abstract + Keywords,31
-1949,2,Temperature in Electrochemistry,KW,Title + Keywords,1
-1949,2,Temperature in Electrochemistry,TI,Title Only,1
-1949,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2
 1950,0,Electrochemistry,KW,Title + Keywords,18
-1950,0,Electrochemistry,TI,Title Only,18
-1950,0,Electrochemistry,TS,Title + Abstract + Keywords,34
-1950,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
-1950,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
 1951,0,Electrochemistry,KW,Title + Keywords,26
-1951,0,Electrochemistry,TI,Title Only,26
-1951,0,Electrochemistry,TS,Title + Abstract + Keywords,46
-1951,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
 1952,0,Electrochemistry,KW,Title + Keywords,38
-1952,0,Electrochemistry,TI,Title Only,38
-1952,0,Electrochemistry,TS,Title + Abstract + Keywords,63
-1952,2,Temperature in Electrochemistry,KW,Title + Keywords,2
-1952,2,Temperature in Electrochemistry,TI,Title Only,2
-1952,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,3
-1952,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,1
-1952,4,Elevated-Temperature in Electrochemistry,TI,Title Only,1
-1952,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
 1953,0,Electrochemistry,KW,Title + Keywords,45
-1953,0,Electrochemistry,TI,Title Only,45
-1953,0,Electrochemistry,TS,Title + Abstract + Keywords,64
-1953,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
-1953,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
 1954,0,Electrochemistry,KW,Title + Keywords,19
-1954,0,Electrochemistry,TI,Title Only,19
-1954,0,Electrochemistry,TS,Title + Abstract + Keywords,48
-1954,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
-1954,2,Temperature in Electrochemistry,KW,Title + Keywords,1
-1954,2,Temperature in Electrochemistry,TI,Title Only,1
-1954,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2
 1955,0,Electrochemistry,KW,Title + Keywords,33
-1955,0,Electrochemistry,TI,Title Only,33
-1955,0,Electrochemistry,TS,Title + Abstract + Keywords,59
-1955,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,3
 1956,0,Electrochemistry,KW,Title + Keywords,36
-1956,0,Electrochemistry,TI,Title Only,36
-1956,0,Electrochemistry,TS,Title + Abstract + Keywords,63
-1956,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
-1956,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
 1957,0,Electrochemistry,KW,Title + Keywords,59
-1957,0,Electrochemistry,TI,Title Only,59
-1957,0,Electrochemistry,TS,Title + Abstract + Keywords,97
-1957,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
-1957,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2
 1958,0,Electrochemistry,KW,Title + Keywords,59
-1958,0,Electrochemistry,TI,Title Only,59
-1958,0,Electrochemistry,TS,Title + Abstract + Keywords,105
-1958,2,Temperature in Electrochemistry,KW,Title + Keywords,2
-1958,2,Temperature in Electrochemistry,TI,Title Only,2
-1958,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,5
 1959,0,Electrochemistry,KW,Title + Keywords,58
-1959,0,Electrochemistry,TI,Title Only,58
-1959,0,Electrochemistry,TS,Title + Abstract + Keywords,101
-1959,1,Electrochemical Manufacturing,KW,Title + Keywords,1
-1959,1,Electrochemical Manufacturing,TI,Title Only,1
-1959,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
-1959,2,Temperature in Electrochemistry,KW,Title + Keywords,2
-1959,2,Temperature in Electrochemistry,TI,Title Only,2
-1959,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,5
 1960,0,Electrochemistry,KW,Title + Keywords,69
-1960,0,Electrochemistry,TI,Title Only,69
-1960,0,Electrochemistry,TS,Title + Abstract + Keywords,120
-1960,1,Electrochemical Manufacturing,KW,Title + Keywords,1
-1960,1,Electrochemical Manufacturing,TI,Title Only,1
-1960,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
-1960,2,Temperature in Electrochemistry,KW,Title + Keywords,1
-1960,2,Temperature in Electrochemistry,TI,Title Only,1
-1960,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,3
 1961,0,Electrochemistry,KW,Title + Keywords,88
-1961,0,Electrochemistry,TI,Title Only,88
-1961,0,Electrochemistry,TS,Title + Abstract + Keywords,138
-1961,1,Electrochemical Manufacturing,KW,Title + Keywords,3
-1961,1,Electrochemical Manufacturing,TI,Title Only,3
-1961,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,4
-1961,2,Temperature in Electrochemistry,KW,Title + Keywords,6
-1961,2,Temperature in Electrochemistry,TI,Title Only,6
-1961,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,13
-1961,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
-1961,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,1
-1961,4,Elevated-Temperature in Electrochemistry,TI,Title Only,1
-1961,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2
 1962,0,Electrochemistry,KW,Title + Keywords,91
-1962,0,Electrochemistry,TI,Title Only,91
-1962,0,Electrochemistry,TS,Title + Abstract + Keywords,131
-1962,1,Electrochemical Manufacturing,KW,Title + Keywords,1
-1962,1,Electrochemical Manufacturing,TI,Title Only,1
-1962,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
-1962,2,Temperature in Electrochemistry,KW,Title + Keywords,1
-1962,2,Temperature in Electrochemistry,TI,Title Only,1
-1962,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,3
-1962,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,1
-1962,4,Elevated-Temperature in Electrochemistry,TI,Title Only,1
-1962,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2
 1963,0,Electrochemistry,KW,Title + Keywords,110
-1963,0,Electrochemistry,TI,Title Only,110
-1963,0,Electrochemistry,TS,Title + Abstract + Keywords,171
-1963,1,Electrochemical Manufacturing,KW,Title + Keywords,1
-1963,1,Electrochemical Manufacturing,TI,Title Only,1
-1963,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
-1963,2,Temperature in Electrochemistry,KW,Title + Keywords,1
-1963,2,Temperature in Electrochemistry,TI,Title Only,1
-1963,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,3
 1964,0,Electrochemistry,KW,Title + Keywords,144
-1964,0,Electrochemistry,TI,Title Only,144
-1964,0,Electrochemistry,TS,Title + Abstract + Keywords,228
-1964,1,Electrochemical Manufacturing,KW,Title + Keywords,3
-1964,1,Electrochemical Manufacturing,TI,Title Only,3
-1964,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,6
-1964,2,Temperature in Electrochemistry,KW,Title + Keywords,2
-1964,2,Temperature in Electrochemistry,TI,Title Only,2
-1964,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,8
-1964,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
 1965,0,Electrochemistry,KW,Title + Keywords,140
-1965,0,Electrochemistry,TI,Title Only,140
-1965,0,Electrochemistry,TS,Title + Abstract + Keywords,253
-1965,1,Electrochemical Manufacturing,KW,Title + Keywords,5
-1965,1,Electrochemical Manufacturing,TI,Title Only,5
-1965,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,7
-1965,2,Temperature in Electrochemistry,KW,Title + Keywords,3
-1965,2,Temperature in Electrochemistry,TI,Title Only,3
-1965,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,11
-1965,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
 1966,0,Electrochemistry,KW,Title + Keywords,237
-1966,0,Electrochemistry,TI,Title Only,237
-1966,0,Electrochemistry,TS,Title + Abstract + Keywords,405
-1966,1,Electrochemical Manufacturing,KW,Title + Keywords,2
-1966,1,Electrochemical Manufacturing,TI,Title Only,2
-1966,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,6
-1966,2,Temperature in Electrochemistry,KW,Title + Keywords,5
-1966,2,Temperature in Electrochemistry,TI,Title Only,5
-1966,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,20
-1966,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,1
-1966,4,Elevated-Temperature in Electrochemistry,TI,Title Only,1
-1966,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,3
 1967,0,Electrochemistry,KW,Title + Keywords,270
-1967,0,Electrochemistry,TI,Title Only,270
-1967,0,Electrochemistry,TS,Title + Abstract + Keywords,502
-1967,1,Electrochemical Manufacturing,KW,Title + Keywords,5
-1967,1,Electrochemical Manufacturing,TI,Title Only,5
-1967,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,10
-1967,2,Temperature in Electrochemistry,KW,Title + Keywords,5
-1967,2,Temperature in Electrochemistry,TI,Title Only,5
-1967,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,16
-1967,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,2
-1967,4,Elevated-Temperature in Electrochemistry,TI,Title Only,2
-1967,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,4
 1968,0,Electrochemistry,KW,Title + Keywords,384
-1968,0,Electrochemistry,TI,Title Only,384
-1968,0,Electrochemistry,TS,Title + Abstract + Keywords,828
-1968,1,Electrochemical Manufacturing,KW,Title + Keywords,5
-1968,1,Electrochemical Manufacturing,TI,Title Only,5
-1968,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,42
-1968,2,Temperature in Electrochemistry,KW,Title + Keywords,6
-1968,2,Temperature in Electrochemistry,TI,Title Only,6
-1968,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,45
-1968,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,3
-1968,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,1
-1968,4,Elevated-Temperature in Electrochemistry,TI,Title Only,1
-1968,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,3
 1969,0,Electrochemistry,KW,Title + Keywords,438
-1969,0,Electrochemistry,TI,Title Only,438
-1969,0,Electrochemistry,TS,Title + Abstract + Keywords,796
-1969,1,Electrochemical Manufacturing,KW,Title + Keywords,6
-1969,1,Electrochemical Manufacturing,TI,Title Only,6
-1969,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,62
-1969,2,Temperature in Electrochemistry,KW,Title + Keywords,7
-1969,2,Temperature in Electrochemistry,TI,Title Only,7
-1969,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,56
-1969,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,6
-1969,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,4
-1969,4,Elevated-Temperature in Electrochemistry,TI,Title Only,4
-1969,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,6
-1969,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
 1970,0,Electrochemistry,KW,Title + Keywords,467
-1970,0,Electrochemistry,TI,Title Only,467
-1970,0,Electrochemistry,TS,Title + Abstract + Keywords,1249
-1970,1,Electrochemical Manufacturing,KW,Title + Keywords,15
-1970,1,Electrochemical Manufacturing,TI,Title Only,15
-1970,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,104
-1970,2,Temperature in Electrochemistry,KW,Title + Keywords,7
-1970,2,Temperature in Electrochemistry,TI,Title Only,7
-1970,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,90
-1970,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,10
-1970,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,2
-1970,4,Elevated-Temperature in Electrochemistry,TI,Title Only,2
-1970,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,8
-1970,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
 1971,0,Electrochemistry,KW,Title + Keywords,547
-1971,0,Electrochemistry,TI,Title Only,546
-1971,0,Electrochemistry,TS,Title + Abstract + Keywords,1353
-1971,1,Electrochemical Manufacturing,KW,Title + Keywords,10
-1971,1,Electrochemical Manufacturing,TI,Title Only,10
-1971,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,110
-1971,2,Temperature in Electrochemistry,KW,Title + Keywords,5
-1971,2,Temperature in Electrochemistry,TI,Title Only,5
-1971,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,83
-1971,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,19
-1971,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,2
-1971,4,Elevated-Temperature in Electrochemistry,TI,Title Only,2
-1971,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,6
-1971,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
 1972,0,Electrochemistry,KW,Title + Keywords,562
-1972,0,Electrochemistry,TI,Title Only,562
-1972,0,Electrochemistry,TS,Title + Abstract + Keywords,1393
-1972,1,Electrochemical Manufacturing,KW,Title + Keywords,18
-1972,1,Electrochemical Manufacturing,TI,Title Only,18
-1972,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,116
-1972,2,Temperature in Electrochemistry,KW,Title + Keywords,8
-1972,2,Temperature in Electrochemistry,TI,Title Only,8
-1972,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,87
-1972,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,19
-1972,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,8
-1972,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,3
 1973,0,Electrochemistry,KW,Title + Keywords,644
-1973,0,Electrochemistry,TI,Title Only,644
-1973,0,Electrochemistry,TS,Title + Abstract + Keywords,1667
-1973,1,Electrochemical Manufacturing,KW,Title + Keywords,13
-1973,1,Electrochemical Manufacturing,TI,Title Only,13
-1973,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,155
-1973,2,Temperature in Electrochemistry,KW,Title + Keywords,8
-1973,2,Temperature in Electrochemistry,TI,Title Only,8
-1973,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,107
-1973,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,22
-1973,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,2
-1973,4,Elevated-Temperature in Electrochemistry,TI,Title Only,2
-1973,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,12
-1973,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,6
 1974,0,Electrochemistry,KW,Title + Keywords,583
-1974,0,Electrochemistry,TI,Title Only,583
-1974,0,Electrochemistry,TS,Title + Abstract + Keywords,1562
-1974,1,Electrochemical Manufacturing,KW,Title + Keywords,15
-1974,1,Electrochemical Manufacturing,TI,Title Only,15
-1974,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,150
-1974,2,Temperature in Electrochemistry,KW,Title + Keywords,8
-1974,2,Temperature in Electrochemistry,TI,Title Only,8
-1974,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,99
-1974,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,18
-1974,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,3
-1974,4,Elevated-Temperature in Electrochemistry,TI,Title Only,3
-1974,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,13
-1974,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
 1975,0,Electrochemistry,KW,Title + Keywords,754
-1975,0,Electrochemistry,TI,Title Only,753
-1975,0,Electrochemistry,TS,Title + Abstract + Keywords,1898
-1975,1,Electrochemical Manufacturing,KW,Title + Keywords,21
-1975,1,Electrochemical Manufacturing,TI,Title Only,21
-1975,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,172
-1975,2,Temperature in Electrochemistry,KW,Title + Keywords,13
-1975,2,Temperature in Electrochemistry,TI,Title Only,13
-1975,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,120
-1975,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,19
-1975,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,1
-1975,4,Elevated-Temperature in Electrochemistry,TI,Title Only,1
-1975,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,7
 1976,0,Electrochemistry,KW,Title + Keywords,729
-1976,0,Electrochemistry,TI,Title Only,729
-1976,0,Electrochemistry,TS,Title + Abstract + Keywords,2079
-1976,1,Electrochemical Manufacturing,KW,Title + Keywords,39
-1976,1,Electrochemical Manufacturing,TI,Title Only,39
-1976,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,216
-1976,2,Temperature in Electrochemistry,KW,Title + Keywords,7
-1976,2,Temperature in Electrochemistry,TI,Title Only,7
-1976,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,164
-1976,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,29
-1976,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,2
-1976,4,Elevated-Temperature in Electrochemistry,TI,Title Only,2
-1976,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,16
-1976,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,4
 1977,0,Electrochemistry,KW,Title + Keywords,900
-1977,0,Electrochemistry,TI,Title Only,894
-1977,0,Electrochemistry,TS,Title + Abstract + Keywords,2560
-1977,1,Electrochemical Manufacturing,KW,Title + Keywords,30
-1977,1,Electrochemical Manufacturing,TI,Title Only,30
-1977,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,292
-1977,2,Temperature in Electrochemistry,KW,Title + Keywords,16
-1977,2,Temperature in Electrochemistry,TI,Title Only,15
-1977,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,193
-1977,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,31
-1977,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,4
-1977,4,Elevated-Temperature in Electrochemistry,TI,Title Only,4
-1977,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,18
-1977,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
 1978,0,Electrochemistry,KW,Title + Keywords,980
-1978,0,Electrochemistry,TI,Title Only,979
-1978,0,Electrochemistry,TS,Title + Abstract + Keywords,2702
-1978,1,Electrochemical Manufacturing,KW,Title + Keywords,43
-1978,1,Electrochemical Manufacturing,TI,Title Only,43
-1978,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,338
-1978,2,Temperature in Electrochemistry,KW,Title + Keywords,14
-1978,2,Temperature in Electrochemistry,TI,Title Only,14
-1978,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,185
-1978,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,38
-1978,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,3
-1978,4,Elevated-Temperature in Electrochemistry,TI,Title Only,3
-1978,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,18
-1978,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
 1979,0,Electrochemistry,KW,Title + Keywords,1025
-1979,0,Electrochemistry,TI,Title Only,1025
-1979,0,Electrochemistry,TS,Title + Abstract + Keywords,2674
-1979,1,Electrochemical Manufacturing,KW,Title + Keywords,51
-1979,1,Electrochemical Manufacturing,TI,Title Only,51
-1979,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,346
-1979,2,Temperature in Electrochemistry,KW,Title + Keywords,20
-1979,2,Temperature in Electrochemistry,TI,Title Only,20
-1979,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,194
-1979,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,34
-1979,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,4
-1979,4,Elevated-Temperature in Electrochemistry,TI,Title Only,4
-1979,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,24
-1979,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
 1980,0,Electrochemistry,KW,Title + Keywords,1156
-1980,0,Electrochemistry,TI,Title Only,1156
-1980,0,Electrochemistry,TS,Title + Abstract + Keywords,3025
-1980,1,Electrochemical Manufacturing,KW,Title + Keywords,48
-1980,1,Electrochemical Manufacturing,TI,Title Only,48
-1980,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,394
-1980,2,Temperature in Electrochemistry,KW,Title + Keywords,18
-1980,2,Temperature in Electrochemistry,TI,Title Only,18
-1980,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,203
-1980,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,39
-1980,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,2
-1980,4,Elevated-Temperature in Electrochemistry,TI,Title Only,2
-1980,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,22
-1980,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,7
 1981,0,Electrochemistry,KW,Title + Keywords,1197
-1981,0,Electrochemistry,TI,Title Only,1197
-1981,0,Electrochemistry,TS,Title + Abstract + Keywords,3199
-1981,1,Electrochemical Manufacturing,KW,Title + Keywords,62
-1981,1,Electrochemical Manufacturing,TI,Title Only,62
-1981,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,468
-1981,2,Temperature in Electrochemistry,KW,Title + Keywords,15
-1981,2,Temperature in Electrochemistry,TI,Title Only,15
-1981,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,277
-1981,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,80
-1981,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,2
-1981,4,Elevated-Temperature in Electrochemistry,TI,Title Only,2
-1981,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,35
-1981,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,12
 1982,0,Electrochemistry,KW,Title + Keywords,1461
-1982,0,Electrochemistry,TI,Title Only,1461
-1982,0,Electrochemistry,TS,Title + Abstract + Keywords,3571
-1982,1,Electrochemical Manufacturing,KW,Title + Keywords,62
-1982,1,Electrochemical Manufacturing,TI,Title Only,62
-1982,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,487
-1982,2,Temperature in Electrochemistry,KW,Title + Keywords,15
-1982,2,Temperature in Electrochemistry,TI,Title Only,15
-1982,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,272
-1982,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,1
-1982,3,Temperature in Electrochemical Manufacturing,TI,Title Only,1
-1982,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,65
-1982,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,2
-1982,4,Elevated-Temperature in Electrochemistry,TI,Title Only,2
-1982,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,31
-1982,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,12
 1983,0,Electrochemistry,KW,Title + Keywords,1572
-1983,0,Electrochemistry,TI,Title Only,1572
-1983,0,Electrochemistry,TS,Title + Abstract + Keywords,3801
-1983,1,Electrochemical Manufacturing,KW,Title + Keywords,76
-1983,1,Electrochemical Manufacturing,TI,Title Only,76
-1983,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,537
-1983,2,Temperature in Electrochemistry,KW,Title + Keywords,31
-1983,2,Temperature in Electrochemistry,TI,Title Only,31
-1983,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,298
-1983,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,78
-1983,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,4
-1983,4,Elevated-Temperature in Electrochemistry,TI,Title Only,4
-1983,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,30
-1983,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,8
 1984,0,Electrochemistry,KW,Title + Keywords,1567
-1984,0,Electrochemistry,TI,Title Only,1567
-1984,0,Electrochemistry,TS,Title + Abstract + Keywords,4016
-1984,1,Electrochemical Manufacturing,KW,Title + Keywords,68
-1984,1,Electrochemical Manufacturing,TI,Title Only,68
-1984,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,505
-1984,2,Temperature in Electrochemistry,KW,Title + Keywords,22
-1984,2,Temperature in Electrochemistry,TI,Title Only,22
-1984,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,284
-1984,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,53
-1984,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,7
-1984,4,Elevated-Temperature in Electrochemistry,TI,Title Only,7
-1984,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,28
-1984,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
 1985,0,Electrochemistry,KW,Title + Keywords,1497
-1985,0,Electrochemistry,TI,Title Only,1497
-1985,0,Electrochemistry,TS,Title + Abstract + Keywords,4333
-1985,1,Electrochemical Manufacturing,KW,Title + Keywords,89
-1985,1,Electrochemical Manufacturing,TI,Title Only,89
-1985,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,612
-1985,2,Temperature in Electrochemistry,KW,Title + Keywords,20
-1985,2,Temperature in Electrochemistry,TI,Title Only,20
-1985,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,339
-1985,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,3
-1985,3,Temperature in Electrochemical Manufacturing,TI,Title Only,3
-1985,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,70
-1985,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,5
-1985,4,Elevated-Temperature in Electrochemistry,TI,Title Only,5
-1985,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,35
-1985,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,1
-1985,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,1
-1985,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,3
 1986,0,Electrochemistry,KW,Title + Keywords,1634
-1986,0,Electrochemistry,TI,Title Only,1632
-1986,0,Electrochemistry,TS,Title + Abstract + Keywords,4518
-1986,1,Electrochemical Manufacturing,KW,Title + Keywords,78
-1986,1,Electrochemical Manufacturing,TI,Title Only,78
-1986,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,569
-1986,2,Temperature in Electrochemistry,KW,Title + Keywords,26
-1986,2,Temperature in Electrochemistry,TI,Title Only,26
-1986,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,329
-1986,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,1
-1986,3,Temperature in Electrochemical Manufacturing,TI,Title Only,1
-1986,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,62
-1986,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,2
-1986,4,Elevated-Temperature in Electrochemistry,TI,Title Only,2
-1986,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,33
-1986,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,8
 1987,0,Electrochemistry,KW,Title + Keywords,1871
-1987,0,Electrochemistry,TI,Title Only,1871
-1987,0,Electrochemistry,TS,Title + Abstract + Keywords,5137
-1987,1,Electrochemical Manufacturing,KW,Title + Keywords,109
-1987,1,Electrochemical Manufacturing,TI,Title Only,109
-1987,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,656
-1987,2,Temperature in Electrochemistry,KW,Title + Keywords,30
-1987,2,Temperature in Electrochemistry,TI,Title Only,30
-1987,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,388
-1987,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,77
-1987,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,4
-1987,4,Elevated-Temperature in Electrochemistry,TI,Title Only,4
-1987,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,32
-1987,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,7
 1988,0,Electrochemistry,KW,Title + Keywords,1742
-1988,0,Electrochemistry,TI,Title Only,1742
-1988,0,Electrochemistry,TS,Title + Abstract + Keywords,5060
-1988,1,Electrochemical Manufacturing,KW,Title + Keywords,111
-1988,1,Electrochemical Manufacturing,TI,Title Only,111
-1988,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,715
-1988,2,Temperature in Electrochemistry,KW,Title + Keywords,39
-1988,2,Temperature in Electrochemistry,TI,Title Only,39
-1988,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,442
-1988,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,3
-1988,3,Temperature in Electrochemical Manufacturing,TI,Title Only,3
-1988,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,99
-1988,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,8
-1988,4,Elevated-Temperature in Electrochemistry,TI,Title Only,8
-1988,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,60
-1988,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,2
-1988,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,2
-1988,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,18
 1989,0,Electrochemistry,KW,Title + Keywords,1684
-1989,0,Electrochemistry,TI,Title Only,1677
-1989,0,Electrochemistry,TS,Title + Abstract + Keywords,5214
-1989,1,Electrochemical Manufacturing,KW,Title + Keywords,108
-1989,1,Electrochemical Manufacturing,TI,Title Only,106
-1989,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,790
-1989,2,Temperature in Electrochemistry,KW,Title + Keywords,32
-1989,2,Temperature in Electrochemistry,TI,Title Only,31
-1989,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,521
-1989,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,2
-1989,3,Temperature in Electrochemical Manufacturing,TI,Title Only,2
-1989,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,128
-1989,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,6
-1989,4,Elevated-Temperature in Electrochemistry,TI,Title Only,5
-1989,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,68
-1989,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,1
-1989,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,1
-1989,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,18
 1990,0,Electrochemistry,KW,Title + Keywords,1969
-1990,0,Electrochemistry,TI,Title Only,1890
-1990,0,Electrochemistry,TS,Title + Abstract + Keywords,6021
-1990,1,Electrochemical Manufacturing,KW,Title + Keywords,150
-1990,1,Electrochemical Manufacturing,TI,Title Only,142
-1990,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1014
-1990,2,Temperature in Electrochemistry,KW,Title + Keywords,38
-1990,2,Temperature in Electrochemistry,TI,Title Only,28
-1990,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,609
-1990,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,2
-1990,3,Temperature in Electrochemical Manufacturing,TI,Title Only,1
-1990,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,143
-1990,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,7
-1990,4,Elevated-Temperature in Electrochemistry,TI,Title Only,6
-1990,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,86
-1990,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,19
 1991,0,Electrochemistry,KW,Title + Keywords,3003
-1991,0,Electrochemistry,TI,Title Only,1921
-1991,0,Electrochemistry,TS,Title + Abstract + Keywords,7435
-1991,1,Electrochemical Manufacturing,KW,Title + Keywords,227
-1991,1,Electrochemical Manufacturing,TI,Title Only,131
-1991,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1178
-1991,2,Temperature in Electrochemistry,KW,Title + Keywords,74
-1991,2,Temperature in Electrochemistry,TI,Title Only,28
-1991,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,875
-1991,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,5
-1991,3,Temperature in Electrochemical Manufacturing,TI,Title Only,3
-1991,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,194
-1991,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,11
-1991,4,Elevated-Temperature in Electrochemistry,TI,Title Only,6
-1991,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,126
-1991,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,3
-1991,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,3
-1991,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,30
 1992,0,Electrochemistry,KW,Title + Keywords,2963
-1992,0,Electrochemistry,TI,Title Only,1840
-1992,0,Electrochemistry,TS,Title + Abstract + Keywords,7300
-1992,1,Electrochemical Manufacturing,KW,Title + Keywords,255
-1992,1,Electrochemical Manufacturing,TI,Title Only,141
-1992,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1201
-1992,2,Temperature in Electrochemistry,KW,Title + Keywords,106
-1992,2,Temperature in Electrochemistry,TI,Title Only,27
-1992,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,901
-1992,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,7
-1992,3,Temperature in Electrochemical Manufacturing,TI,Title Only,1
-1992,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,217
-1992,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,15
-1992,4,Elevated-Temperature in Electrochemistry,TI,Title Only,8
-1992,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,103
-1992,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,2
-1992,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,1
-1992,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,23
 1993,0,Electrochemistry,KW,Title + Keywords,3203
-1993,0,Electrochemistry,TI,Title Only,2021
-1993,0,Electrochemistry,TS,Title + Abstract + Keywords,7938
-1993,1,Electrochemical Manufacturing,KW,Title + Keywords,251
-1993,1,Electrochemical Manufacturing,TI,Title Only,145
-1993,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1442
-1993,2,Temperature in Electrochemistry,KW,Title + Keywords,90
-1993,2,Temperature in Electrochemistry,TI,Title Only,31
-1993,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,988
-1993,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,3
-1993,3,Temperature in Electrochemical Manufacturing,TI,Title Only,2
-1993,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,264
-1993,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,13
-1993,4,Elevated-Temperature in Electrochemistry,TI,Title Only,8
-1993,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,139
-1993,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,33
 1994,0,Electrochemistry,KW,Title + Keywords,3319
-1994,0,Electrochemistry,TI,Title Only,1962
-1994,0,Electrochemistry,TS,Title + Abstract + Keywords,8089
-1994,1,Electrochemical Manufacturing,KW,Title + Keywords,285
-1994,1,Electrochemical Manufacturing,TI,Title Only,166
-1994,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1509
-1994,2,Temperature in Electrochemistry,KW,Title + Keywords,115
-1994,2,Temperature in Electrochemistry,TI,Title Only,24
-1994,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1083
-1994,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,8
-1994,3,Temperature in Electrochemical Manufacturing,TI,Title Only,3
-1994,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,273
-1994,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,18
-1994,4,Elevated-Temperature in Electrochemistry,TI,Title Only,5
-1994,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,156
-1994,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,2
-1994,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,1
-1994,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,50
 1995,0,Electrochemistry,KW,Title + Keywords,3569
-1995,0,Electrochemistry,TI,Title Only,2189
-1995,0,Electrochemistry,TS,Title + Abstract + Keywords,8987
-1995,1,Electrochemical Manufacturing,KW,Title + Keywords,286
-1995,1,Electrochemical Manufacturing,TI,Title Only,153
-1995,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1969
-1995,2,Temperature in Electrochemistry,KW,Title + Keywords,112
-1995,2,Temperature in Electrochemistry,TI,Title Only,33
-1995,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1325
-1995,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,7
-1995,3,Temperature in Electrochemical Manufacturing,TI,Title Only,4
-1995,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,393
-1995,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,18
-1995,4,Elevated-Temperature in Electrochemistry,TI,Title Only,5
-1995,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,160
-1995,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,2
-1995,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,2
-1995,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,48
 1996,0,Electrochemistry,KW,Title + Keywords,3804
-1996,0,Electrochemistry,TI,Title Only,2332
-1996,0,Electrochemistry,TS,Title + Abstract + Keywords,9878
-1996,1,Electrochemical Manufacturing,KW,Title + Keywords,352
-1996,1,Electrochemical Manufacturing,TI,Title Only,210
-1996,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2359
-1996,2,Temperature in Electrochemistry,KW,Title + Keywords,137
-1996,2,Temperature in Electrochemistry,TI,Title Only,50
-1996,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1676
-1996,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,17
-1996,3,Temperature in Electrochemical Manufacturing,TI,Title Only,12
-1996,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,582
-1996,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,29
-1996,4,Elevated-Temperature in Electrochemistry,TI,Title Only,17
-1996,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,238
-1996,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,8
-1996,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,8
-1996,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,104
 1997,0,Electrochemistry,KW,Title + Keywords,4507
-1997,0,Electrochemistry,TI,Title Only,2657
-1997,0,Electrochemistry,TS,Title + Abstract + Keywords,11476
-1997,1,Electrochemical Manufacturing,KW,Title + Keywords,425
-1997,1,Electrochemical Manufacturing,TI,Title Only,233
-1997,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,3250
-1997,2,Temperature in Electrochemistry,KW,Title + Keywords,162
-1997,2,Temperature in Electrochemistry,TI,Title Only,51
-1997,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1976
-1997,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,23
-1997,3,Temperature in Electrochemical Manufacturing,TI,Title Only,16
-1997,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,820
-1997,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,29
-1997,4,Elevated-Temperature in Electrochemistry,TI,Title Only,15
-1997,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,301
-1997,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,7
-1997,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,6
-1997,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,134
 1998,0,Electrochemistry,KW,Title + Keywords,4543
-1998,0,Electrochemistry,TI,Title Only,2687
-1998,0,Electrochemistry,TS,Title + Abstract + Keywords,11298
-1998,1,Electrochemical Manufacturing,KW,Title + Keywords,450
-1998,1,Electrochemical Manufacturing,TI,Title Only,274
-1998,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2893
-1998,2,Temperature in Electrochemistry,KW,Title + Keywords,174
-1998,2,Temperature in Electrochemistry,TI,Title Only,46
-1998,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1910
-1998,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,19
-1998,3,Temperature in Electrochemical Manufacturing,TI,Title Only,6
-1998,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,632
-1998,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,27
-1998,4,Elevated-Temperature in Electrochemistry,TI,Title Only,11
-1998,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,309
-1998,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,2
-1998,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,2
-1998,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,130
 1999,0,Electrochemistry,KW,Title + Keywords,4749
-1999,0,Electrochemistry,TI,Title Only,2646
-1999,0,Electrochemistry,TS,Title + Abstract + Keywords,11950
-1999,1,Electrochemical Manufacturing,KW,Title + Keywords,512
-1999,1,Electrochemical Manufacturing,TI,Title Only,252
-1999,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,3595
-1999,2,Temperature in Electrochemistry,KW,Title + Keywords,161
-1999,2,Temperature in Electrochemistry,TI,Title Only,39
-1999,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2312
-1999,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,20
-1999,3,Temperature in Electrochemical Manufacturing,TI,Title Only,4
-1999,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1020
-1999,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,23
-1999,4,Elevated-Temperature in Electrochemistry,TI,Title Only,9
-1999,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,489
-1999,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,3
-1999,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,1
-1999,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,326
 2000,0,Electrochemistry,KW,Title + Keywords,4788
-2000,0,Electrochemistry,TI,Title Only,2673
-2000,0,Electrochemistry,TS,Title + Abstract + Keywords,12526
-2000,1,Electrochemical Manufacturing,KW,Title + Keywords,474
-2000,1,Electrochemical Manufacturing,TI,Title Only,239
-2000,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,3686
-2000,2,Temperature in Electrochemistry,KW,Title + Keywords,199
-2000,2,Temperature in Electrochemistry,TI,Title Only,42
-2000,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2353
-2000,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,23
-2000,3,Temperature in Electrochemical Manufacturing,TI,Title Only,8
-2000,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,988
-2000,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,34
-2000,4,Elevated-Temperature in Electrochemistry,TI,Title Only,9
-2000,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,484
-2000,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,3
-2000,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,2
-2000,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,269
 2001,0,Electrochemistry,KW,Title + Keywords,5090
-2001,0,Electrochemistry,TI,Title Only,2783
-2001,0,Electrochemistry,TS,Title + Abstract + Keywords,13046
-2001,1,Electrochemical Manufacturing,KW,Title + Keywords,554
-2001,1,Electrochemical Manufacturing,TI,Title Only,286
-2001,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,3894
-2001,2,Temperature in Electrochemistry,KW,Title + Keywords,232
-2001,2,Temperature in Electrochemistry,TI,Title Only,57
-2001,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2313
-2001,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,23
-2001,3,Temperature in Electrochemical Manufacturing,TI,Title Only,7
-2001,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,975
-2001,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,36
-2001,4,Elevated-Temperature in Electrochemistry,TI,Title Only,11
-2001,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,421
-2001,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,4
-2001,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,2
-2001,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,242
 2002,0,Electrochemistry,KW,Title + Keywords,5309
-2002,0,Electrochemistry,TI,Title Only,3010
-2002,0,Electrochemistry,TS,Title + Abstract + Keywords,14513
-2002,1,Electrochemical Manufacturing,KW,Title + Keywords,593
-2002,1,Electrochemical Manufacturing,TI,Title Only,282
-2002,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,4487
-2002,2,Temperature in Electrochemistry,KW,Title + Keywords,250
-2002,2,Temperature in Electrochemistry,TI,Title Only,52
-2002,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2715
-2002,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,32
-2002,3,Temperature in Electrochemical Manufacturing,TI,Title Only,4
-2002,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1191
-2002,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,37
-2002,4,Elevated-Temperature in Electrochemistry,TI,Title Only,15
-2002,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,483
-2002,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,3
-2002,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,2
-2002,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,280
 2003,0,Electrochemistry,KW,Title + Keywords,5733
-2003,0,Electrochemistry,TI,Title Only,3115
-2003,0,Electrochemistry,TS,Title + Abstract + Keywords,16241
-2003,1,Electrochemical Manufacturing,KW,Title + Keywords,625
-2003,1,Electrochemical Manufacturing,TI,Title Only,292
-2003,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,5209
-2003,2,Temperature in Electrochemistry,KW,Title + Keywords,274
-2003,2,Temperature in Electrochemistry,TI,Title Only,60
-2003,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,3106
-2003,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,31
-2003,3,Temperature in Electrochemical Manufacturing,TI,Title Only,5
-2003,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1385
-2003,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,48
-2003,4,Elevated-Temperature in Electrochemistry,TI,Title Only,15
-2003,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,522
-2003,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,4
-2003,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,2
-2003,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,296
 2004,0,Electrochemistry,KW,Title + Keywords,6405
-2004,0,Electrochemistry,TI,Title Only,3481
-2004,0,Electrochemistry,TS,Title + Abstract + Keywords,17766
-2004,1,Electrochemical Manufacturing,KW,Title + Keywords,718
-2004,1,Electrochemical Manufacturing,TI,Title Only,349
-2004,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,5668
-2004,2,Temperature in Electrochemistry,KW,Title + Keywords,317
-2004,2,Temperature in Electrochemistry,TI,Title Only,55
-2004,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,3511
-2004,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,40
-2004,3,Temperature in Electrochemical Manufacturing,TI,Title Only,4
-2004,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1546
-2004,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,49
-2004,4,Elevated-Temperature in Electrochemistry,TI,Title Only,17
-2004,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,647
-2004,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,4
-2004,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,1
-2004,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,378
 2005,0,Electrochemistry,KW,Title + Keywords,7134
-2005,0,Electrochemistry,TI,Title Only,3811
-2005,0,Electrochemistry,TS,Title + Abstract + Keywords,19611
-2005,1,Electrochemical Manufacturing,KW,Title + Keywords,888
-2005,1,Electrochemical Manufacturing,TI,Title Only,441
-2005,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,6844
-2005,2,Temperature in Electrochemistry,KW,Title + Keywords,380
-2005,2,Temperature in Electrochemistry,TI,Title Only,80
-2005,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,4127
-2005,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,51
-2005,3,Temperature in Electrochemical Manufacturing,TI,Title Only,10
-2005,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1951
-2005,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,69
-2005,4,Elevated-Temperature in Electrochemistry,TI,Title Only,18
-2005,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,726
-2005,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,6
-2005,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,2
-2005,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,455
 2006,0,Electrochemistry,KW,Title + Keywords,8062
-2006,0,Electrochemistry,TI,Title Only,4240
-2006,0,Electrochemistry,TS,Title + Abstract + Keywords,21262
-2006,1,Electrochemical Manufacturing,KW,Title + Keywords,1054
-2006,1,Electrochemical Manufacturing,TI,Title Only,497
-2006,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,8028
-2006,2,Temperature in Electrochemistry,KW,Title + Keywords,477
-2006,2,Temperature in Electrochemistry,TI,Title Only,89
-2006,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,4619
-2006,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,63
-2006,3,Temperature in Electrochemical Manufacturing,TI,Title Only,10
-2006,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2407
-2006,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,87
-2006,4,Elevated-Temperature in Electrochemistry,TI,Title Only,17
-2006,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,869
-2006,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,6
-2006,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,1
-2006,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,586
 2007,0,Electrochemistry,KW,Title + Keywords,9260
-2007,0,Electrochemistry,TI,Title Only,4805
-2007,0,Electrochemistry,TS,Title + Abstract + Keywords,23856
-2007,1,Electrochemical Manufacturing,KW,Title + Keywords,1254
-2007,1,Electrochemical Manufacturing,TI,Title Only,574
-2007,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,9231
-2007,2,Temperature in Electrochemistry,KW,Title + Keywords,559
-2007,2,Temperature in Electrochemistry,TI,Title Only,109
-2007,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,5450
-2007,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,86
-2007,3,Temperature in Electrochemical Manufacturing,TI,Title Only,11
-2007,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2797
-2007,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,122
-2007,4,Elevated-Temperature in Electrochemistry,TI,Title Only,32
-2007,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1026
-2007,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,16
-2007,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,3
-2007,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,684
 2008,0,Electrochemistry,KW,Title + Keywords,9677
-2008,0,Electrochemistry,TI,Title Only,4928
-2008,0,Electrochemistry,TS,Title + Abstract + Keywords,26359
-2008,1,Electrochemical Manufacturing,KW,Title + Keywords,1336
-2008,1,Electrochemical Manufacturing,TI,Title Only,613
-2008,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,10495
-2008,2,Temperature in Electrochemistry,KW,Title + Keywords,644
-2008,2,Temperature in Electrochemistry,TI,Title Only,126
-2008,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,6491
-2008,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,126
-2008,3,Temperature in Electrochemical Manufacturing,TI,Title Only,19
-2008,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,3470
-2008,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,105
-2008,4,Elevated-Temperature in Electrochemistry,TI,Title Only,25
-2008,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1195
-2008,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,8
-2008,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,3
-2008,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,829
 2009,0,Electrochemistry,KW,Title + Keywords,11019
-2009,0,Electrochemistry,TI,Title Only,5363
-2009,0,Electrochemistry,TS,Title + Abstract + Keywords,28553
-2009,1,Electrochemical Manufacturing,KW,Title + Keywords,1616
-2009,1,Electrochemical Manufacturing,TI,Title Only,651
-2009,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,11774
-2009,2,Temperature in Electrochemistry,KW,Title + Keywords,769
-2009,2,Temperature in Electrochemistry,TI,Title Only,122
-2009,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,7217
-2009,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,135
-2009,3,Temperature in Electrochemical Manufacturing,TI,Title Only,17
-2009,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,3977
-2009,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,146
-2009,4,Elevated-Temperature in Electrochemistry,TI,Title Only,34
-2009,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1342
-2009,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,13
-2009,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,2
-2009,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,939
 2010,0,Electrochemistry,KW,Title + Keywords,12218
-2010,0,Electrochemistry,TI,Title Only,5845
-2010,0,Electrochemistry,TS,Title + Abstract + Keywords,30477
-2010,1,Electrochemical Manufacturing,KW,Title + Keywords,1720
-2010,1,Electrochemical Manufacturing,TI,Title Only,716
-2010,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,12619
-2010,2,Temperature in Electrochemistry,KW,Title + Keywords,873
-2010,2,Temperature in Electrochemistry,TI,Title Only,117
-2010,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,7573
-2010,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,146
-2010,3,Temperature in Electrochemical Manufacturing,TI,Title Only,14
-2010,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,4207
-2010,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,143
-2010,4,Elevated-Temperature in Electrochemistry,TI,Title Only,30
-2010,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1436
-2010,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,15
-2010,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,1
-2010,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1005
 2011,0,Electrochemistry,KW,Title + Keywords,13754
-2011,0,Electrochemistry,TI,Title Only,6739
-2011,0,Electrochemistry,TS,Title + Abstract + Keywords,35365
-2011,1,Electrochemical Manufacturing,KW,Title + Keywords,1986
-2011,1,Electrochemical Manufacturing,TI,Title Only,822
-2011,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,15544
-2011,2,Temperature in Electrochemistry,KW,Title + Keywords,957
-2011,2,Temperature in Electrochemistry,TI,Title Only,137
-2011,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,9114
-2011,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,171
-2011,3,Temperature in Electrochemical Manufacturing,TI,Title Only,11
-2011,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,5228
-2011,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,175
-2011,4,Elevated-Temperature in Electrochemistry,TI,Title Only,42
-2011,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1688
-2011,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,18
-2011,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,2
-2011,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1164
 2012,0,Electrochemistry,KW,Title + Keywords,14949
-2012,0,Electrochemistry,TI,Title Only,7368
-2012,0,Electrochemistry,TS,Title + Abstract + Keywords,37968
-2012,1,Electrochemical Manufacturing,KW,Title + Keywords,2337
-2012,1,Electrochemical Manufacturing,TI,Title Only,965
-2012,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,17505
-2012,2,Temperature in Electrochemistry,KW,Title + Keywords,1066
-2012,2,Temperature in Electrochemistry,TI,Title Only,165
-2012,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,9800
-2012,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,197
-2012,3,Temperature in Electrochemical Manufacturing,TI,Title Only,20
-2012,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,5845
-2012,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,196
-2012,4,Elevated-Temperature in Electrochemistry,TI,Title Only,51
-2012,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1679
-2012,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,17
-2012,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,4
-2012,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1210
 2013,0,Electrochemistry,KW,Title + Keywords,17362
-2013,0,Electrochemistry,TI,Title Only,8416
-2013,0,Electrochemistry,TS,Title + Abstract + Keywords,43905
-2013,1,Electrochemical Manufacturing,KW,Title + Keywords,2909
-2013,1,Electrochemical Manufacturing,TI,Title Only,1121
-2013,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,21254
-2013,2,Temperature in Electrochemistry,KW,Title + Keywords,1190
-2013,2,Temperature in Electrochemistry,TI,Title Only,167
-2013,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,11045
-2013,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,217
-2013,3,Temperature in Electrochemical Manufacturing,TI,Title Only,15
-2013,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,6779
-2013,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,240
-2013,4,Elevated-Temperature in Electrochemistry,TI,Title Only,50
-2013,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2013
-2013,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,26
-2013,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,3
-2013,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1468
 2014,0,Electrochemistry,KW,Title + Keywords,19445
-2014,0,Electrochemistry,TI,Title Only,9125
-2014,0,Electrochemistry,TS,Title + Abstract + Keywords,47408
-2014,1,Electrochemical Manufacturing,KW,Title + Keywords,3445
-2014,1,Electrochemical Manufacturing,TI,Title Only,1169
-2014,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,23772
-2014,2,Temperature in Electrochemistry,KW,Title + Keywords,1344
-2014,2,Temperature in Electrochemistry,TI,Title Only,180
-2014,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,11946
-2014,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,277
-2014,3,Temperature in Electrochemical Manufacturing,TI,Title Only,33
-2014,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,7562
-2014,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,244
-2014,4,Elevated-Temperature in Electrochemistry,TI,Title Only,44
-2014,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2058
-2014,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,35
-2014,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,7
-2014,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1464
 2015,0,Electrochemistry,KW,Title + Keywords,21392
-2015,0,Electrochemistry,TI,Title Only,9699
-2015,0,Electrochemistry,TS,Title + Abstract + Keywords,49776
-2015,1,Electrochemical Manufacturing,KW,Title + Keywords,3991
-2015,1,Electrochemical Manufacturing,TI,Title Only,1271
-2015,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,24482
-2015,2,Temperature in Electrochemistry,KW,Title + Keywords,1363
-2015,2,Temperature in Electrochemistry,TI,Title Only,163
-2015,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,11914
-2015,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,301
-2015,3,Temperature in Electrochemical Manufacturing,TI,Title Only,22
-2015,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,7470
-2015,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,253
-2015,4,Elevated-Temperature in Electrochemistry,TI,Title Only,44
-2015,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1992
-2015,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,29
-2015,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,1
-2015,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1330
 2016,0,Electrochemistry,KW,Title + Keywords,23366
-2016,0,Electrochemistry,TI,Title Only,10584
-2016,0,Electrochemistry,TS,Title + Abstract + Keywords,54071
-2016,1,Electrochemical Manufacturing,KW,Title + Keywords,4052
-2016,1,Electrochemical Manufacturing,TI,Title Only,1198
-2016,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,27339
-2016,2,Temperature in Electrochemistry,KW,Title + Keywords,1446
-2016,2,Temperature in Electrochemistry,TI,Title Only,169
-2016,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,13266
-2016,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,266
-2016,3,Temperature in Electrochemical Manufacturing,TI,Title Only,14
-2016,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,8445
-2016,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,284
-2016,4,Elevated-Temperature in Electrochemistry,TI,Title Only,55
-2016,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2224
-2016,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,29
-2016,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,3
-2016,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1483
 2017,0,Electrochemistry,KW,Title + Keywords,25673
-2017,0,Electrochemistry,TI,Title Only,11490
-2017,0,Electrochemistry,TS,Title + Abstract + Keywords,61885
-2017,1,Electrochemical Manufacturing,KW,Title + Keywords,4730
-2017,1,Electrochemical Manufacturing,TI,Title Only,1357
-2017,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,33976
-2017,2,Temperature in Electrochemistry,KW,Title + Keywords,1613
-2017,2,Temperature in Electrochemistry,TI,Title Only,231
-2017,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,16191
-2017,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,377
-2017,3,Temperature in Electrochemical Manufacturing,TI,Title Only,39
-2017,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,11009
-2017,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,290
-2017,4,Elevated-Temperature in Electrochemistry,TI,Title Only,60
-2017,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2847
-2017,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,50
-2017,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,3
-2017,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1995
 2018,0,Electrochemistry,KW,Title + Keywords,27798
-2018,0,Electrochemistry,TI,Title Only,12393
-2018,0,Electrochemistry,TS,Title + Abstract + Keywords,67652
-2018,1,Electrochemical Manufacturing,KW,Title + Keywords,4978
-2018,1,Electrochemical Manufacturing,TI,Title Only,1272
-2018,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,36569
-2018,2,Temperature in Electrochemistry,KW,Title + Keywords,1673
-2018,2,Temperature in Electrochemistry,TI,Title Only,194
-2018,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,17167
-2018,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,359
-2018,3,Temperature in Electrochemical Manufacturing,TI,Title Only,35
-2018,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,11392
-2018,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,285
-2018,4,Elevated-Temperature in Electrochemistry,TI,Title Only,56
-2018,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2684
-2018,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,41
-2018,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,8
-2018,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1787
 2019,0,Electrochemistry,KW,Title + Keywords,31531
-2019,0,Electrochemistry,TI,Title Only,13817
-2019,0,Electrochemistry,TS,Title + Abstract + Keywords,80462
-2019,1,Electrochemical Manufacturing,KW,Title + Keywords,5321
-2019,1,Electrochemical Manufacturing,TI,Title Only,1347
-2019,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,45603
-2019,2,Temperature in Electrochemistry,KW,Title + Keywords,1716
-2019,2,Temperature in Electrochemistry,TI,Title Only,205
-2019,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,20877
-2019,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,377
-2019,3,Temperature in Electrochemical Manufacturing,TI,Title Only,31
-2019,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,14329
-2019,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,273
-2019,4,Elevated-Temperature in Electrochemistry,TI,Title Only,45
-2019,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,3211
-2019,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,28
-2019,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,1
-2019,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2119
 2020,0,Electrochemistry,KW,Title + Keywords,34038
-2020,0,Electrochemistry,TI,Title Only,14899
-2020,0,Electrochemistry,TS,Title + Abstract + Keywords,83309
-2020,1,Electrochemical Manufacturing,KW,Title + Keywords,5522
-2020,1,Electrochemical Manufacturing,TI,Title Only,1472
-2020,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,46846
-2020,2,Temperature in Electrochemistry,KW,Title + Keywords,1926
-2020,2,Temperature in Electrochemistry,TI,Title Only,190
-2020,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,21094
-2020,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,365
-2020,3,Temperature in Electrochemical Manufacturing,TI,Title Only,23
-2020,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,14315
-2020,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,303
-2020,4,Elevated-Temperature in Electrochemistry,TI,Title Only,42
-2020,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,3278
-2020,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,32
-2020,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,4
-2020,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2154
 2021,0,Electrochemistry,KW,Title + Keywords,36195
-2021,0,Electrochemistry,TI,Title Only,15696
-2021,0,Electrochemistry,TS,Title + Abstract + Keywords,89271
-2021,1,Electrochemical Manufacturing,KW,Title + Keywords,5130
-2021,1,Electrochemical Manufacturing,TI,Title Only,1438
-2021,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,47270
-2021,2,Temperature in Electrochemistry,KW,Title + Keywords,1751
-2021,2,Temperature in Electrochemistry,TI,Title Only,243
-2021,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,20866
-2021,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,317
-2021,3,Temperature in Electrochemical Manufacturing,TI,Title Only,29
-2021,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,13429
-2021,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,292
-2021,4,Elevated-Temperature in Electrochemistry,TI,Title Only,53
-2021,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,3452
-2021,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,36
-2021,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,9
-2021,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2083
 2022,0,Electrochemistry,KW,Title + Keywords,38051
-2022,0,Electrochemistry,TI,Title Only,17177
-2022,0,Electrochemistry,TS,Title + Abstract + Keywords,102429
-2022,1,Electrochemical Manufacturing,KW,Title + Keywords,5332
-2022,1,Electrochemical Manufacturing,TI,Title Only,1492
-2022,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,61706
-2022,2,Temperature in Electrochemistry,KW,Title + Keywords,1885
-2022,2,Temperature in Electrochemistry,TI,Title Only,262
-2022,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,26771
-2022,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,297
-2022,3,Temperature in Electrochemical Manufacturing,TI,Title Only,20
-2022,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,19457
-2022,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,274
-2022,4,Elevated-Temperature in Electrochemistry,TI,Title Only,64
-2022,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,4262
-2022,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,27
-2022,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,2
-2022,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2806
 2023,0,Electrochemistry,KW,Title + Keywords,37274
-2023,0,Electrochemistry,TI,Title Only,17143
-2023,0,Electrochemistry,TS,Title + Abstract + Keywords,104642
-2023,1,Electrochemical Manufacturing,KW,Title + Keywords,5031
-2023,1,Electrochemical Manufacturing,TI,Title Only,1474
-2023,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,65201
-2023,2,Temperature in Electrochemistry,KW,Title + Keywords,1826
-2023,2,Temperature in Electrochemistry,TI,Title Only,276
-2023,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,27590
-2023,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,316
-2023,3,Temperature in Electrochemical Manufacturing,TI,Title Only,31
-2023,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,20742
-2023,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,284
-2023,4,Elevated-Temperature in Electrochemistry,TI,Title Only,67
-2023,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,4453
-2023,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,32
-2023,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,4
-2023,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,3050
 2024,0,Electrochemistry,KW,Title + Keywords,39105
-2024,0,Electrochemistry,TI,Title Only,18856
-2024,0,Electrochemistry,TS,Title + Abstract + Keywords,112755
-2024,1,Electrochemical Manufacturing,KW,Title + Keywords,5244
-2024,1,Electrochemical Manufacturing,TI,Title Only,1657
-2024,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,68398
-2024,2,Temperature in Electrochemistry,KW,Title + Keywords,1925
-2024,2,Temperature in Electrochemistry,TI,Title Only,275
-2024,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,28831
-2024,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,282
-2024,3,Temperature in Electrochemical Manufacturing,TI,Title Only,25
-2024,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,20838
-2024,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,314
-2024,4,Elevated-Temperature in Electrochemistry,TI,Title Only,58
-2024,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,4807
-2024,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,31
-2024,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,2
-2024,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,3177
 2025,0,Electrochemistry,KW,Title + Keywords,25061
-2025,0,Electrochemistry,TI,Title Only,13629
-2025,0,Electrochemistry,TS,Title + Abstract + Keywords,53964
-2025,1,Electrochemical Manufacturing,KW,Title + Keywords,3587
-2025,1,Electrochemical Manufacturing,TI,Title Only,1174
-2025,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,20211
-2025,2,Temperature in Electrochemistry,KW,Title + Keywords,1327
-2025,2,Temperature in Electrochemistry,TI,Title Only,194
-2025,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,9725
-2025,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,194
-2025,3,Temperature in Electrochemical Manufacturing,TI,Title Only,25
-2025,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,4031
-2025,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,242
-2025,4,Elevated-Temperature in Electrochemistry,TI,Title Only,44
-2025,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2038
-2025,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,23
-2025,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,5
-2025,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,768
 2026,0,Electrochemistry,KW,Title + Keywords,128
+1900,0,Electrochemistry,TI,Title Only,4
+1901,0,Electrochemistry,TI,Title Only,22
+1902,0,Electrochemistry,TI,Title Only,14
+1903,0,Electrochemistry,TI,Title Only,17
+1904,0,Electrochemistry,TI,Title Only,10
+1905,0,Electrochemistry,TI,Title Only,4
+1906,0,Electrochemistry,TI,Title Only,12
+1907,0,Electrochemistry,TI,Title Only,5
+1908,0,Electrochemistry,TI,Title Only,13
+1909,0,Electrochemistry,TI,Title Only,14
+1910,0,Electrochemistry,TI,Title Only,18
+1911,0,Electrochemistry,TI,Title Only,16
+1912,0,Electrochemistry,TI,Title Only,15
+1913,0,Electrochemistry,TI,Title Only,12
+1914,0,Electrochemistry,TI,Title Only,5
+1915,0,Electrochemistry,TI,Title Only,2
+1916,0,Electrochemistry,TI,Title Only,3
+1917,0,Electrochemistry,TI,Title Only,1
+1918,0,Electrochemistry,TI,Title Only,3
+1919,0,Electrochemistry,TI,Title Only,9
+1920,0,Electrochemistry,TI,Title Only,11
+1921,0,Electrochemistry,TI,Title Only,7
+1922,0,Electrochemistry,TI,Title Only,15
+1923,0,Electrochemistry,TI,Title Only,9
+1924,0,Electrochemistry,TI,Title Only,12
+1925,0,Electrochemistry,TI,Title Only,10
+1926,0,Electrochemistry,TI,Title Only,17
+1927,0,Electrochemistry,TI,Title Only,12
+1928,0,Electrochemistry,TI,Title Only,22
+1929,0,Electrochemistry,TI,Title Only,13
+1930,0,Electrochemistry,TI,Title Only,21
+1931,0,Electrochemistry,TI,Title Only,17
+1932,0,Electrochemistry,TI,Title Only,15
+1933,0,Electrochemistry,TI,Title Only,15
+1934,0,Electrochemistry,TI,Title Only,18
+1935,0,Electrochemistry,TI,Title Only,28
+1936,0,Electrochemistry,TI,Title Only,20
+1937,0,Electrochemistry,TI,Title Only,20
+1938,0,Electrochemistry,TI,Title Only,17
+1939,0,Electrochemistry,TI,Title Only,8
+1940,0,Electrochemistry,TI,Title Only,11
+1941,0,Electrochemistry,TI,Title Only,7
+1942,0,Electrochemistry,TI,Title Only,10
+1943,0,Electrochemistry,TI,Title Only,7
+1944,0,Electrochemistry,TI,Title Only,9
+1945,0,Electrochemistry,TI,Title Only,8
+1946,0,Electrochemistry,TI,Title Only,13
+1947,0,Electrochemistry,TI,Title Only,14
+1948,0,Electrochemistry,TI,Title Only,15
+1949,0,Electrochemistry,TI,Title Only,22
+1950,0,Electrochemistry,TI,Title Only,18
+1951,0,Electrochemistry,TI,Title Only,26
+1952,0,Electrochemistry,TI,Title Only,38
+1953,0,Electrochemistry,TI,Title Only,45
+1954,0,Electrochemistry,TI,Title Only,19
+1955,0,Electrochemistry,TI,Title Only,33
+1956,0,Electrochemistry,TI,Title Only,36
+1957,0,Electrochemistry,TI,Title Only,59
+1958,0,Electrochemistry,TI,Title Only,59
+1959,0,Electrochemistry,TI,Title Only,58
+1960,0,Electrochemistry,TI,Title Only,69
+1961,0,Electrochemistry,TI,Title Only,88
+1962,0,Electrochemistry,TI,Title Only,91
+1963,0,Electrochemistry,TI,Title Only,110
+1964,0,Electrochemistry,TI,Title Only,144
+1965,0,Electrochemistry,TI,Title Only,140
+1966,0,Electrochemistry,TI,Title Only,237
+1967,0,Electrochemistry,TI,Title Only,270
+1968,0,Electrochemistry,TI,Title Only,384
+1969,0,Electrochemistry,TI,Title Only,438
+1970,0,Electrochemistry,TI,Title Only,467
+1971,0,Electrochemistry,TI,Title Only,546
+1972,0,Electrochemistry,TI,Title Only,562
+1973,0,Electrochemistry,TI,Title Only,644
+1974,0,Electrochemistry,TI,Title Only,583
+1975,0,Electrochemistry,TI,Title Only,753
+1976,0,Electrochemistry,TI,Title Only,729
+1977,0,Electrochemistry,TI,Title Only,894
+1978,0,Electrochemistry,TI,Title Only,979
+1979,0,Electrochemistry,TI,Title Only,1025
+1980,0,Electrochemistry,TI,Title Only,1156
+1981,0,Electrochemistry,TI,Title Only,1197
+1982,0,Electrochemistry,TI,Title Only,1461
+1983,0,Electrochemistry,TI,Title Only,1572
+1984,0,Electrochemistry,TI,Title Only,1567
+1985,0,Electrochemistry,TI,Title Only,1497
+1986,0,Electrochemistry,TI,Title Only,1632
+1987,0,Electrochemistry,TI,Title Only,1871
+1988,0,Electrochemistry,TI,Title Only,1742
+1989,0,Electrochemistry,TI,Title Only,1677
+1990,0,Electrochemistry,TI,Title Only,1890
+1991,0,Electrochemistry,TI,Title Only,1921
+1992,0,Electrochemistry,TI,Title Only,1840
+1993,0,Electrochemistry,TI,Title Only,2021
+1994,0,Electrochemistry,TI,Title Only,1962
+1995,0,Electrochemistry,TI,Title Only,2189
+1996,0,Electrochemistry,TI,Title Only,2332
+1997,0,Electrochemistry,TI,Title Only,2657
+1998,0,Electrochemistry,TI,Title Only,2687
+1999,0,Electrochemistry,TI,Title Only,2646
+2000,0,Electrochemistry,TI,Title Only,2673
+2001,0,Electrochemistry,TI,Title Only,2783
+2002,0,Electrochemistry,TI,Title Only,3010
+2003,0,Electrochemistry,TI,Title Only,3115
+2004,0,Electrochemistry,TI,Title Only,3481
+2005,0,Electrochemistry,TI,Title Only,3811
+2006,0,Electrochemistry,TI,Title Only,4240
+2007,0,Electrochemistry,TI,Title Only,4805
+2008,0,Electrochemistry,TI,Title Only,4928
+2009,0,Electrochemistry,TI,Title Only,5363
+2010,0,Electrochemistry,TI,Title Only,5845
+2011,0,Electrochemistry,TI,Title Only,6739
+2012,0,Electrochemistry,TI,Title Only,7368
+2013,0,Electrochemistry,TI,Title Only,8416
+2014,0,Electrochemistry,TI,Title Only,9125
+2015,0,Electrochemistry,TI,Title Only,9699
+2016,0,Electrochemistry,TI,Title Only,10584
+2017,0,Electrochemistry,TI,Title Only,11490
+2018,0,Electrochemistry,TI,Title Only,12393
+2019,0,Electrochemistry,TI,Title Only,13817
+2020,0,Electrochemistry,TI,Title Only,14899
+2021,0,Electrochemistry,TI,Title Only,15696
+2022,0,Electrochemistry,TI,Title Only,17177
+2023,0,Electrochemistry,TI,Title Only,17143
+2024,0,Electrochemistry,TI,Title Only,18856
+2025,0,Electrochemistry,TI,Title Only,13629
 2026,0,Electrochemistry,TI,Title Only,73
+1800,0,Electrochemistry,TS,Title + Abstract + Keywords,29
+1900,0,Electrochemistry,TS,Title + Abstract + Keywords,11
+1901,0,Electrochemistry,TS,Title + Abstract + Keywords,24
+1902,0,Electrochemistry,TS,Title + Abstract + Keywords,14
+1903,0,Electrochemistry,TS,Title + Abstract + Keywords,18
+1904,0,Electrochemistry,TS,Title + Abstract + Keywords,10
+1905,0,Electrochemistry,TS,Title + Abstract + Keywords,15
+1906,0,Electrochemistry,TS,Title + Abstract + Keywords,13
+1907,0,Electrochemistry,TS,Title + Abstract + Keywords,6
+1908,0,Electrochemistry,TS,Title + Abstract + Keywords,13
+1909,0,Electrochemistry,TS,Title + Abstract + Keywords,14
+1910,0,Electrochemistry,TS,Title + Abstract + Keywords,18
+1911,0,Electrochemistry,TS,Title + Abstract + Keywords,16
+1912,0,Electrochemistry,TS,Title + Abstract + Keywords,17
+1913,0,Electrochemistry,TS,Title + Abstract + Keywords,13
+1914,0,Electrochemistry,TS,Title + Abstract + Keywords,6
+1915,0,Electrochemistry,TS,Title + Abstract + Keywords,2
+1916,0,Electrochemistry,TS,Title + Abstract + Keywords,3
+1917,0,Electrochemistry,TS,Title + Abstract + Keywords,2
+1918,0,Electrochemistry,TS,Title + Abstract + Keywords,3
+1919,0,Electrochemistry,TS,Title + Abstract + Keywords,10
+1920,0,Electrochemistry,TS,Title + Abstract + Keywords,12
+1921,0,Electrochemistry,TS,Title + Abstract + Keywords,8
+1922,0,Electrochemistry,TS,Title + Abstract + Keywords,16
+1923,0,Electrochemistry,TS,Title + Abstract + Keywords,9
+1924,0,Electrochemistry,TS,Title + Abstract + Keywords,14
+1925,0,Electrochemistry,TS,Title + Abstract + Keywords,12
+1926,0,Electrochemistry,TS,Title + Abstract + Keywords,23
+1927,0,Electrochemistry,TS,Title + Abstract + Keywords,22
+1928,0,Electrochemistry,TS,Title + Abstract + Keywords,30
+1929,0,Electrochemistry,TS,Title + Abstract + Keywords,17
+1930,0,Electrochemistry,TS,Title + Abstract + Keywords,25
+1931,0,Electrochemistry,TS,Title + Abstract + Keywords,22
+1932,0,Electrochemistry,TS,Title + Abstract + Keywords,23
+1933,0,Electrochemistry,TS,Title + Abstract + Keywords,20
+1934,0,Electrochemistry,TS,Title + Abstract + Keywords,22
+1935,0,Electrochemistry,TS,Title + Abstract + Keywords,36
+1936,0,Electrochemistry,TS,Title + Abstract + Keywords,26
+1937,0,Electrochemistry,TS,Title + Abstract + Keywords,22
+1938,0,Electrochemistry,TS,Title + Abstract + Keywords,22
+1939,0,Electrochemistry,TS,Title + Abstract + Keywords,18
+1940,0,Electrochemistry,TS,Title + Abstract + Keywords,23
+1941,0,Electrochemistry,TS,Title + Abstract + Keywords,13
+1942,0,Electrochemistry,TS,Title + Abstract + Keywords,20
+1943,0,Electrochemistry,TS,Title + Abstract + Keywords,17
+1944,0,Electrochemistry,TS,Title + Abstract + Keywords,19
+1945,0,Electrochemistry,TS,Title + Abstract + Keywords,13
+1946,0,Electrochemistry,TS,Title + Abstract + Keywords,22
+1947,0,Electrochemistry,TS,Title + Abstract + Keywords,31
+1948,0,Electrochemistry,TS,Title + Abstract + Keywords,23
+1949,0,Electrochemistry,TS,Title + Abstract + Keywords,31
+1950,0,Electrochemistry,TS,Title + Abstract + Keywords,34
+1951,0,Electrochemistry,TS,Title + Abstract + Keywords,46
+1952,0,Electrochemistry,TS,Title + Abstract + Keywords,63
+1953,0,Electrochemistry,TS,Title + Abstract + Keywords,64
+1954,0,Electrochemistry,TS,Title + Abstract + Keywords,48
+1955,0,Electrochemistry,TS,Title + Abstract + Keywords,59
+1956,0,Electrochemistry,TS,Title + Abstract + Keywords,63
+1957,0,Electrochemistry,TS,Title + Abstract + Keywords,97
+1958,0,Electrochemistry,TS,Title + Abstract + Keywords,105
+1959,0,Electrochemistry,TS,Title + Abstract + Keywords,101
+1960,0,Electrochemistry,TS,Title + Abstract + Keywords,120
+1961,0,Electrochemistry,TS,Title + Abstract + Keywords,138
+1962,0,Electrochemistry,TS,Title + Abstract + Keywords,131
+1963,0,Electrochemistry,TS,Title + Abstract + Keywords,171
+1964,0,Electrochemistry,TS,Title + Abstract + Keywords,228
+1965,0,Electrochemistry,TS,Title + Abstract + Keywords,253
+1966,0,Electrochemistry,TS,Title + Abstract + Keywords,405
+1967,0,Electrochemistry,TS,Title + Abstract + Keywords,502
+1968,0,Electrochemistry,TS,Title + Abstract + Keywords,828
+1969,0,Electrochemistry,TS,Title + Abstract + Keywords,796
+1970,0,Electrochemistry,TS,Title + Abstract + Keywords,1249
+1971,0,Electrochemistry,TS,Title + Abstract + Keywords,1353
+1972,0,Electrochemistry,TS,Title + Abstract + Keywords,1393
+1973,0,Electrochemistry,TS,Title + Abstract + Keywords,1667
+1974,0,Electrochemistry,TS,Title + Abstract + Keywords,1562
+1975,0,Electrochemistry,TS,Title + Abstract + Keywords,1898
+1976,0,Electrochemistry,TS,Title + Abstract + Keywords,2079
+1977,0,Electrochemistry,TS,Title + Abstract + Keywords,2560
+1978,0,Electrochemistry,TS,Title + Abstract + Keywords,2702
+1979,0,Electrochemistry,TS,Title + Abstract + Keywords,2674
+1980,0,Electrochemistry,TS,Title + Abstract + Keywords,3025
+1981,0,Electrochemistry,TS,Title + Abstract + Keywords,3199
+1982,0,Electrochemistry,TS,Title + Abstract + Keywords,3571
+1983,0,Electrochemistry,TS,Title + Abstract + Keywords,3801
+1984,0,Electrochemistry,TS,Title + Abstract + Keywords,4016
+1985,0,Electrochemistry,TS,Title + Abstract + Keywords,4333
+1986,0,Electrochemistry,TS,Title + Abstract + Keywords,4518
+1987,0,Electrochemistry,TS,Title + Abstract + Keywords,5137
+1988,0,Electrochemistry,TS,Title + Abstract + Keywords,5060
+1989,0,Electrochemistry,TS,Title + Abstract + Keywords,5214
+1990,0,Electrochemistry,TS,Title + Abstract + Keywords,6021
+1991,0,Electrochemistry,TS,Title + Abstract + Keywords,7435
+1992,0,Electrochemistry,TS,Title + Abstract + Keywords,7300
+1993,0,Electrochemistry,TS,Title + Abstract + Keywords,7938
+1994,0,Electrochemistry,TS,Title + Abstract + Keywords,8089
+1995,0,Electrochemistry,TS,Title + Abstract + Keywords,8987
+1996,0,Electrochemistry,TS,Title + Abstract + Keywords,9878
+1997,0,Electrochemistry,TS,Title + Abstract + Keywords,11476
+1998,0,Electrochemistry,TS,Title + Abstract + Keywords,11298
+1999,0,Electrochemistry,TS,Title + Abstract + Keywords,11950
+2000,0,Electrochemistry,TS,Title + Abstract + Keywords,12526
+2001,0,Electrochemistry,TS,Title + Abstract + Keywords,13046
+2002,0,Electrochemistry,TS,Title + Abstract + Keywords,14513
+2003,0,Electrochemistry,TS,Title + Abstract + Keywords,16241
+2004,0,Electrochemistry,TS,Title + Abstract + Keywords,17766
+2005,0,Electrochemistry,TS,Title + Abstract + Keywords,19611
+2006,0,Electrochemistry,TS,Title + Abstract + Keywords,21262
+2007,0,Electrochemistry,TS,Title + Abstract + Keywords,23856
+2008,0,Electrochemistry,TS,Title + Abstract + Keywords,26359
+2009,0,Electrochemistry,TS,Title + Abstract + Keywords,28553
+2010,0,Electrochemistry,TS,Title + Abstract + Keywords,30477
+2011,0,Electrochemistry,TS,Title + Abstract + Keywords,35365
+2012,0,Electrochemistry,TS,Title + Abstract + Keywords,37968
+2013,0,Electrochemistry,TS,Title + Abstract + Keywords,43905
+2014,0,Electrochemistry,TS,Title + Abstract + Keywords,47408
+2015,0,Electrochemistry,TS,Title + Abstract + Keywords,49776
+2016,0,Electrochemistry,TS,Title + Abstract + Keywords,54071
+2017,0,Electrochemistry,TS,Title + Abstract + Keywords,61885
+2018,0,Electrochemistry,TS,Title + Abstract + Keywords,67652
+2019,0,Electrochemistry,TS,Title + Abstract + Keywords,80462
+2020,0,Electrochemistry,TS,Title + Abstract + Keywords,83309
+2021,0,Electrochemistry,TS,Title + Abstract + Keywords,89271
+2022,0,Electrochemistry,TS,Title + Abstract + Keywords,102429
+2023,0,Electrochemistry,TS,Title + Abstract + Keywords,104642
+2024,0,Electrochemistry,TS,Title + Abstract + Keywords,112755
+2025,0,Electrochemistry,TS,Title + Abstract + Keywords,53964
 2026,0,Electrochemistry,TS,Title + Abstract + Keywords,104
-2026,1,Electrochemical Manufacturing,KW,Title + Keywords,23
-2026,1,Electrochemical Manufacturing,TI,Title Only,6
-2026,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,37
-2026,2,Temperature in Electrochemistry,KW,Title + Keywords,10
-2026,2,Temperature in Electrochemistry,TI,Title Only,1
-2026,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,19
-2026,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,1
-2026,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,7
-2026,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,2
-2026,4,Elevated-Temperature in Electrochemistry,TI,Title Only,1
-2026,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,7
-2026,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
 2027,0,Electrochemistry,TS,Title + Abstract + Keywords,1
+1903,1,Electrochemical Manufacturing,KW,Title + Keywords,1
+1915,1,Electrochemical Manufacturing,KW,Title + Keywords,1
+1918,1,Electrochemical Manufacturing,KW,Title + Keywords,1
+1925,1,Electrochemical Manufacturing,KW,Title + Keywords,1
+1936,1,Electrochemical Manufacturing,KW,Title + Keywords,1
+1940,1,Electrochemical Manufacturing,KW,Title + Keywords,1
+1945,1,Electrochemical Manufacturing,KW,Title + Keywords,2
+1946,1,Electrochemical Manufacturing,KW,Title + Keywords,1
+1947,1,Electrochemical Manufacturing,KW,Title + Keywords,1
+1959,1,Electrochemical Manufacturing,KW,Title + Keywords,1
+1960,1,Electrochemical Manufacturing,KW,Title + Keywords,1
+1961,1,Electrochemical Manufacturing,KW,Title + Keywords,3
+1962,1,Electrochemical Manufacturing,KW,Title + Keywords,1
+1963,1,Electrochemical Manufacturing,KW,Title + Keywords,1
+1964,1,Electrochemical Manufacturing,KW,Title + Keywords,3
+1965,1,Electrochemical Manufacturing,KW,Title + Keywords,5
+1966,1,Electrochemical Manufacturing,KW,Title + Keywords,2
+1967,1,Electrochemical Manufacturing,KW,Title + Keywords,5
+1968,1,Electrochemical Manufacturing,KW,Title + Keywords,5
+1969,1,Electrochemical Manufacturing,KW,Title + Keywords,6
+1970,1,Electrochemical Manufacturing,KW,Title + Keywords,15
+1971,1,Electrochemical Manufacturing,KW,Title + Keywords,10
+1972,1,Electrochemical Manufacturing,KW,Title + Keywords,18
+1973,1,Electrochemical Manufacturing,KW,Title + Keywords,13
+1974,1,Electrochemical Manufacturing,KW,Title + Keywords,15
+1975,1,Electrochemical Manufacturing,KW,Title + Keywords,21
+1976,1,Electrochemical Manufacturing,KW,Title + Keywords,39
+1977,1,Electrochemical Manufacturing,KW,Title + Keywords,30
+1978,1,Electrochemical Manufacturing,KW,Title + Keywords,43
+1979,1,Electrochemical Manufacturing,KW,Title + Keywords,51
+1980,1,Electrochemical Manufacturing,KW,Title + Keywords,48
+1981,1,Electrochemical Manufacturing,KW,Title + Keywords,62
+1982,1,Electrochemical Manufacturing,KW,Title + Keywords,62
+1983,1,Electrochemical Manufacturing,KW,Title + Keywords,76
+1984,1,Electrochemical Manufacturing,KW,Title + Keywords,68
+1985,1,Electrochemical Manufacturing,KW,Title + Keywords,89
+1986,1,Electrochemical Manufacturing,KW,Title + Keywords,78
+1987,1,Electrochemical Manufacturing,KW,Title + Keywords,109
+1988,1,Electrochemical Manufacturing,KW,Title + Keywords,111
+1989,1,Electrochemical Manufacturing,KW,Title + Keywords,108
+1990,1,Electrochemical Manufacturing,KW,Title + Keywords,150
+1991,1,Electrochemical Manufacturing,KW,Title + Keywords,227
+1992,1,Electrochemical Manufacturing,KW,Title + Keywords,255
+1993,1,Electrochemical Manufacturing,KW,Title + Keywords,251
+1994,1,Electrochemical Manufacturing,KW,Title + Keywords,285
+1995,1,Electrochemical Manufacturing,KW,Title + Keywords,286
+1996,1,Electrochemical Manufacturing,KW,Title + Keywords,352
+1997,1,Electrochemical Manufacturing,KW,Title + Keywords,425
+1998,1,Electrochemical Manufacturing,KW,Title + Keywords,450
+1999,1,Electrochemical Manufacturing,KW,Title + Keywords,512
+2000,1,Electrochemical Manufacturing,KW,Title + Keywords,474
+2001,1,Electrochemical Manufacturing,KW,Title + Keywords,554
+2002,1,Electrochemical Manufacturing,KW,Title + Keywords,593
+2003,1,Electrochemical Manufacturing,KW,Title + Keywords,625
+2004,1,Electrochemical Manufacturing,KW,Title + Keywords,718
+2005,1,Electrochemical Manufacturing,KW,Title + Keywords,888
+2006,1,Electrochemical Manufacturing,KW,Title + Keywords,1054
+2007,1,Electrochemical Manufacturing,KW,Title + Keywords,1254
+2008,1,Electrochemical Manufacturing,KW,Title + Keywords,1336
+2009,1,Electrochemical Manufacturing,KW,Title + Keywords,1616
+2010,1,Electrochemical Manufacturing,KW,Title + Keywords,1720
+2011,1,Electrochemical Manufacturing,KW,Title + Keywords,1986
+2012,1,Electrochemical Manufacturing,KW,Title + Keywords,2337
+2013,1,Electrochemical Manufacturing,KW,Title + Keywords,2909
+2014,1,Electrochemical Manufacturing,KW,Title + Keywords,3445
+2015,1,Electrochemical Manufacturing,KW,Title + Keywords,3991
+2016,1,Electrochemical Manufacturing,KW,Title + Keywords,4052
+2017,1,Electrochemical Manufacturing,KW,Title + Keywords,4730
+2018,1,Electrochemical Manufacturing,KW,Title + Keywords,4978
+2019,1,Electrochemical Manufacturing,KW,Title + Keywords,5321
+2020,1,Electrochemical Manufacturing,KW,Title + Keywords,5522
+2021,1,Electrochemical Manufacturing,KW,Title + Keywords,5130
+2022,1,Electrochemical Manufacturing,KW,Title + Keywords,5332
+2023,1,Electrochemical Manufacturing,KW,Title + Keywords,5031
+2024,1,Electrochemical Manufacturing,KW,Title + Keywords,5244
+2025,1,Electrochemical Manufacturing,KW,Title + Keywords,3587
+2026,1,Electrochemical Manufacturing,KW,Title + Keywords,23
+1903,1,Electrochemical Manufacturing,TI,Title Only,1
+1915,1,Electrochemical Manufacturing,TI,Title Only,1
+1918,1,Electrochemical Manufacturing,TI,Title Only,1
+1925,1,Electrochemical Manufacturing,TI,Title Only,1
+1936,1,Electrochemical Manufacturing,TI,Title Only,1
+1940,1,Electrochemical Manufacturing,TI,Title Only,1
+1945,1,Electrochemical Manufacturing,TI,Title Only,2
+1946,1,Electrochemical Manufacturing,TI,Title Only,1
+1947,1,Electrochemical Manufacturing,TI,Title Only,1
+1959,1,Electrochemical Manufacturing,TI,Title Only,1
+1960,1,Electrochemical Manufacturing,TI,Title Only,1
+1961,1,Electrochemical Manufacturing,TI,Title Only,3
+1962,1,Electrochemical Manufacturing,TI,Title Only,1
+1963,1,Electrochemical Manufacturing,TI,Title Only,1
+1964,1,Electrochemical Manufacturing,TI,Title Only,3
+1965,1,Electrochemical Manufacturing,TI,Title Only,5
+1966,1,Electrochemical Manufacturing,TI,Title Only,2
+1967,1,Electrochemical Manufacturing,TI,Title Only,5
+1968,1,Electrochemical Manufacturing,TI,Title Only,5
+1969,1,Electrochemical Manufacturing,TI,Title Only,6
+1970,1,Electrochemical Manufacturing,TI,Title Only,15
+1971,1,Electrochemical Manufacturing,TI,Title Only,10
+1972,1,Electrochemical Manufacturing,TI,Title Only,18
+1973,1,Electrochemical Manufacturing,TI,Title Only,13
+1974,1,Electrochemical Manufacturing,TI,Title Only,15
+1975,1,Electrochemical Manufacturing,TI,Title Only,21
+1976,1,Electrochemical Manufacturing,TI,Title Only,39
+1977,1,Electrochemical Manufacturing,TI,Title Only,30
+1978,1,Electrochemical Manufacturing,TI,Title Only,43
+1979,1,Electrochemical Manufacturing,TI,Title Only,51
+1980,1,Electrochemical Manufacturing,TI,Title Only,48
+1981,1,Electrochemical Manufacturing,TI,Title Only,62
+1982,1,Electrochemical Manufacturing,TI,Title Only,62
+1983,1,Electrochemical Manufacturing,TI,Title Only,76
+1984,1,Electrochemical Manufacturing,TI,Title Only,68
+1985,1,Electrochemical Manufacturing,TI,Title Only,89
+1986,1,Electrochemical Manufacturing,TI,Title Only,78
+1987,1,Electrochemical Manufacturing,TI,Title Only,109
+1988,1,Electrochemical Manufacturing,TI,Title Only,111
+1989,1,Electrochemical Manufacturing,TI,Title Only,106
+1990,1,Electrochemical Manufacturing,TI,Title Only,142
+1991,1,Electrochemical Manufacturing,TI,Title Only,131
+1992,1,Electrochemical Manufacturing,TI,Title Only,141
+1993,1,Electrochemical Manufacturing,TI,Title Only,145
+1994,1,Electrochemical Manufacturing,TI,Title Only,166
+1995,1,Electrochemical Manufacturing,TI,Title Only,153
+1996,1,Electrochemical Manufacturing,TI,Title Only,210
+1997,1,Electrochemical Manufacturing,TI,Title Only,233
+1998,1,Electrochemical Manufacturing,TI,Title Only,274
+1999,1,Electrochemical Manufacturing,TI,Title Only,252
+2000,1,Electrochemical Manufacturing,TI,Title Only,239
+2001,1,Electrochemical Manufacturing,TI,Title Only,286
+2002,1,Electrochemical Manufacturing,TI,Title Only,282
+2003,1,Electrochemical Manufacturing,TI,Title Only,292
+2004,1,Electrochemical Manufacturing,TI,Title Only,349
+2005,1,Electrochemical Manufacturing,TI,Title Only,441
+2006,1,Electrochemical Manufacturing,TI,Title Only,497
+2007,1,Electrochemical Manufacturing,TI,Title Only,574
+2008,1,Electrochemical Manufacturing,TI,Title Only,613
+2009,1,Electrochemical Manufacturing,TI,Title Only,651
+2010,1,Electrochemical Manufacturing,TI,Title Only,716
+2011,1,Electrochemical Manufacturing,TI,Title Only,822
+2012,1,Electrochemical Manufacturing,TI,Title Only,965
+2013,1,Electrochemical Manufacturing,TI,Title Only,1121
+2014,1,Electrochemical Manufacturing,TI,Title Only,1169
+2015,1,Electrochemical Manufacturing,TI,Title Only,1271
+2016,1,Electrochemical Manufacturing,TI,Title Only,1198
+2017,1,Electrochemical Manufacturing,TI,Title Only,1357
+2018,1,Electrochemical Manufacturing,TI,Title Only,1272
+2019,1,Electrochemical Manufacturing,TI,Title Only,1347
+2020,1,Electrochemical Manufacturing,TI,Title Only,1472
+2021,1,Electrochemical Manufacturing,TI,Title Only,1438
+2022,1,Electrochemical Manufacturing,TI,Title Only,1492
+2023,1,Electrochemical Manufacturing,TI,Title Only,1474
+2024,1,Electrochemical Manufacturing,TI,Title Only,1657
+2025,1,Electrochemical Manufacturing,TI,Title Only,1174
+2026,1,Electrochemical Manufacturing,TI,Title Only,6
+1800,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,13
+1900,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1903,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1905,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,4
+1915,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1918,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1925,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1936,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1940,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1941,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1945,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
+1946,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1947,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1948,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1950,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1951,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1953,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1954,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1956,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1957,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
+1959,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
+1960,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1961,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,4
+1962,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1963,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
+1964,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,6
+1965,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,7
+1966,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,6
+1967,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,10
+1968,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,42
+1969,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,62
+1970,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,104
+1971,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,110
+1972,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,116
+1973,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,155
+1974,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,150
+1975,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,172
+1976,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,216
+1977,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,292
+1978,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,338
+1979,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,346
+1980,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,394
+1981,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,468
+1982,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,487
+1983,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,537
+1984,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,505
+1985,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,612
+1986,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,569
+1987,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,656
+1988,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,715
+1989,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,790
+1990,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1014
+1991,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1178
+1992,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1201
+1993,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1442
+1994,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1509
+1995,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1969
+1996,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2359
+1997,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,3250
+1998,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2893
+1999,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,3595
+2000,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,3686
+2001,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,3894
+2002,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,4487
+2003,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,5209
+2004,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,5668
+2005,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,6844
+2006,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,8028
+2007,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,9231
+2008,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,10495
+2009,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,11774
+2010,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,12619
+2011,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,15544
+2012,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,17505
+2013,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,21254
+2014,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,23772
+2015,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,24482
+2016,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,27339
+2017,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,33976
+2018,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,36569
+2019,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,45603
+2020,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,46846
+2021,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,47270
+2022,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,61706
+2023,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,65201
+2024,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,68398
+2025,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,20211
+2026,1,Electrochemical Manufacturing,TS,Title + Abstract + Keywords,37
+1908,2,Temperature in Electrochemistry,KW,Title + Keywords,1
+1912,2,Temperature in Electrochemistry,KW,Title + Keywords,1
+1929,2,Temperature in Electrochemistry,KW,Title + Keywords,1
+1932,2,Temperature in Electrochemistry,KW,Title + Keywords,1
+1949,2,Temperature in Electrochemistry,KW,Title + Keywords,1
+1952,2,Temperature in Electrochemistry,KW,Title + Keywords,2
+1954,2,Temperature in Electrochemistry,KW,Title + Keywords,1
+1958,2,Temperature in Electrochemistry,KW,Title + Keywords,2
+1959,2,Temperature in Electrochemistry,KW,Title + Keywords,2
+1960,2,Temperature in Electrochemistry,KW,Title + Keywords,1
+1961,2,Temperature in Electrochemistry,KW,Title + Keywords,6
+1962,2,Temperature in Electrochemistry,KW,Title + Keywords,1
+1963,2,Temperature in Electrochemistry,KW,Title + Keywords,1
+1964,2,Temperature in Electrochemistry,KW,Title + Keywords,2
+1965,2,Temperature in Electrochemistry,KW,Title + Keywords,3
+1966,2,Temperature in Electrochemistry,KW,Title + Keywords,5
+1967,2,Temperature in Electrochemistry,KW,Title + Keywords,5
+1968,2,Temperature in Electrochemistry,KW,Title + Keywords,6
+1969,2,Temperature in Electrochemistry,KW,Title + Keywords,7
+1970,2,Temperature in Electrochemistry,KW,Title + Keywords,7
+1971,2,Temperature in Electrochemistry,KW,Title + Keywords,5
+1972,2,Temperature in Electrochemistry,KW,Title + Keywords,8
+1973,2,Temperature in Electrochemistry,KW,Title + Keywords,8
+1974,2,Temperature in Electrochemistry,KW,Title + Keywords,8
+1975,2,Temperature in Electrochemistry,KW,Title + Keywords,13
+1976,2,Temperature in Electrochemistry,KW,Title + Keywords,7
+1977,2,Temperature in Electrochemistry,KW,Title + Keywords,16
+1978,2,Temperature in Electrochemistry,KW,Title + Keywords,14
+1979,2,Temperature in Electrochemistry,KW,Title + Keywords,20
+1980,2,Temperature in Electrochemistry,KW,Title + Keywords,18
+1981,2,Temperature in Electrochemistry,KW,Title + Keywords,15
+1982,2,Temperature in Electrochemistry,KW,Title + Keywords,15
+1983,2,Temperature in Electrochemistry,KW,Title + Keywords,31
+1984,2,Temperature in Electrochemistry,KW,Title + Keywords,22
+1985,2,Temperature in Electrochemistry,KW,Title + Keywords,20
+1986,2,Temperature in Electrochemistry,KW,Title + Keywords,26
+1987,2,Temperature in Electrochemistry,KW,Title + Keywords,30
+1988,2,Temperature in Electrochemistry,KW,Title + Keywords,39
+1989,2,Temperature in Electrochemistry,KW,Title + Keywords,32
+1990,2,Temperature in Electrochemistry,KW,Title + Keywords,38
+1991,2,Temperature in Electrochemistry,KW,Title + Keywords,74
+1992,2,Temperature in Electrochemistry,KW,Title + Keywords,106
+1993,2,Temperature in Electrochemistry,KW,Title + Keywords,90
+1994,2,Temperature in Electrochemistry,KW,Title + Keywords,115
+1995,2,Temperature in Electrochemistry,KW,Title + Keywords,112
+1996,2,Temperature in Electrochemistry,KW,Title + Keywords,137
+1997,2,Temperature in Electrochemistry,KW,Title + Keywords,162
+1998,2,Temperature in Electrochemistry,KW,Title + Keywords,174
+1999,2,Temperature in Electrochemistry,KW,Title + Keywords,161
+2000,2,Temperature in Electrochemistry,KW,Title + Keywords,199
+2001,2,Temperature in Electrochemistry,KW,Title + Keywords,232
+2002,2,Temperature in Electrochemistry,KW,Title + Keywords,250
+2003,2,Temperature in Electrochemistry,KW,Title + Keywords,274
+2004,2,Temperature in Electrochemistry,KW,Title + Keywords,317
+2005,2,Temperature in Electrochemistry,KW,Title + Keywords,380
+2006,2,Temperature in Electrochemistry,KW,Title + Keywords,477
+2007,2,Temperature in Electrochemistry,KW,Title + Keywords,559
+2008,2,Temperature in Electrochemistry,KW,Title + Keywords,644
+2009,2,Temperature in Electrochemistry,KW,Title + Keywords,769
+2010,2,Temperature in Electrochemistry,KW,Title + Keywords,873
+2011,2,Temperature in Electrochemistry,KW,Title + Keywords,957
+2012,2,Temperature in Electrochemistry,KW,Title + Keywords,1066
+2013,2,Temperature in Electrochemistry,KW,Title + Keywords,1190
+2014,2,Temperature in Electrochemistry,KW,Title + Keywords,1344
+2015,2,Temperature in Electrochemistry,KW,Title + Keywords,1363
+2016,2,Temperature in Electrochemistry,KW,Title + Keywords,1446
+2017,2,Temperature in Electrochemistry,KW,Title + Keywords,1613
+2018,2,Temperature in Electrochemistry,KW,Title + Keywords,1673
+2019,2,Temperature in Electrochemistry,KW,Title + Keywords,1716
+2020,2,Temperature in Electrochemistry,KW,Title + Keywords,1926
+2021,2,Temperature in Electrochemistry,KW,Title + Keywords,1751
+2022,2,Temperature in Electrochemistry,KW,Title + Keywords,1885
+2023,2,Temperature in Electrochemistry,KW,Title + Keywords,1826
+2024,2,Temperature in Electrochemistry,KW,Title + Keywords,1925
+2025,2,Temperature in Electrochemistry,KW,Title + Keywords,1327
+2026,2,Temperature in Electrochemistry,KW,Title + Keywords,10
+1908,2,Temperature in Electrochemistry,TI,Title Only,1
+1912,2,Temperature in Electrochemistry,TI,Title Only,1
+1929,2,Temperature in Electrochemistry,TI,Title Only,1
+1932,2,Temperature in Electrochemistry,TI,Title Only,1
+1949,2,Temperature in Electrochemistry,TI,Title Only,1
+1952,2,Temperature in Electrochemistry,TI,Title Only,2
+1954,2,Temperature in Electrochemistry,TI,Title Only,1
+1958,2,Temperature in Electrochemistry,TI,Title Only,2
+1959,2,Temperature in Electrochemistry,TI,Title Only,2
+1960,2,Temperature in Electrochemistry,TI,Title Only,1
+1961,2,Temperature in Electrochemistry,TI,Title Only,6
+1962,2,Temperature in Electrochemistry,TI,Title Only,1
+1963,2,Temperature in Electrochemistry,TI,Title Only,1
+1964,2,Temperature in Electrochemistry,TI,Title Only,2
+1965,2,Temperature in Electrochemistry,TI,Title Only,3
+1966,2,Temperature in Electrochemistry,TI,Title Only,5
+1967,2,Temperature in Electrochemistry,TI,Title Only,5
+1968,2,Temperature in Electrochemistry,TI,Title Only,6
+1969,2,Temperature in Electrochemistry,TI,Title Only,7
+1970,2,Temperature in Electrochemistry,TI,Title Only,7
+1971,2,Temperature in Electrochemistry,TI,Title Only,5
+1972,2,Temperature in Electrochemistry,TI,Title Only,8
+1973,2,Temperature in Electrochemistry,TI,Title Only,8
+1974,2,Temperature in Electrochemistry,TI,Title Only,8
+1975,2,Temperature in Electrochemistry,TI,Title Only,13
+1976,2,Temperature in Electrochemistry,TI,Title Only,7
+1977,2,Temperature in Electrochemistry,TI,Title Only,15
+1978,2,Temperature in Electrochemistry,TI,Title Only,14
+1979,2,Temperature in Electrochemistry,TI,Title Only,20
+1980,2,Temperature in Electrochemistry,TI,Title Only,18
+1981,2,Temperature in Electrochemistry,TI,Title Only,15
+1982,2,Temperature in Electrochemistry,TI,Title Only,15
+1983,2,Temperature in Electrochemistry,TI,Title Only,31
+1984,2,Temperature in Electrochemistry,TI,Title Only,22
+1985,2,Temperature in Electrochemistry,TI,Title Only,20
+1986,2,Temperature in Electrochemistry,TI,Title Only,26
+1987,2,Temperature in Electrochemistry,TI,Title Only,30
+1988,2,Temperature in Electrochemistry,TI,Title Only,39
+1989,2,Temperature in Electrochemistry,TI,Title Only,31
+1990,2,Temperature in Electrochemistry,TI,Title Only,28
+1991,2,Temperature in Electrochemistry,TI,Title Only,28
+1992,2,Temperature in Electrochemistry,TI,Title Only,27
+1993,2,Temperature in Electrochemistry,TI,Title Only,31
+1994,2,Temperature in Electrochemistry,TI,Title Only,24
+1995,2,Temperature in Electrochemistry,TI,Title Only,33
+1996,2,Temperature in Electrochemistry,TI,Title Only,50
+1997,2,Temperature in Electrochemistry,TI,Title Only,51
+1998,2,Temperature in Electrochemistry,TI,Title Only,46
+1999,2,Temperature in Electrochemistry,TI,Title Only,39
+2000,2,Temperature in Electrochemistry,TI,Title Only,42
+2001,2,Temperature in Electrochemistry,TI,Title Only,57
+2002,2,Temperature in Electrochemistry,TI,Title Only,52
+2003,2,Temperature in Electrochemistry,TI,Title Only,60
+2004,2,Temperature in Electrochemistry,TI,Title Only,55
+2005,2,Temperature in Electrochemistry,TI,Title Only,80
+2006,2,Temperature in Electrochemistry,TI,Title Only,89
+2007,2,Temperature in Electrochemistry,TI,Title Only,109
+2008,2,Temperature in Electrochemistry,TI,Title Only,126
+2009,2,Temperature in Electrochemistry,TI,Title Only,122
+2010,2,Temperature in Electrochemistry,TI,Title Only,117
+2011,2,Temperature in Electrochemistry,TI,Title Only,137
+2012,2,Temperature in Electrochemistry,TI,Title Only,165
+2013,2,Temperature in Electrochemistry,TI,Title Only,167
+2014,2,Temperature in Electrochemistry,TI,Title Only,180
+2015,2,Temperature in Electrochemistry,TI,Title Only,163
+2016,2,Temperature in Electrochemistry,TI,Title Only,169
+2017,2,Temperature in Electrochemistry,TI,Title Only,231
+2018,2,Temperature in Electrochemistry,TI,Title Only,194
+2019,2,Temperature in Electrochemistry,TI,Title Only,205
+2020,2,Temperature in Electrochemistry,TI,Title Only,190
+2021,2,Temperature in Electrochemistry,TI,Title Only,243
+2022,2,Temperature in Electrochemistry,TI,Title Only,262
+2023,2,Temperature in Electrochemistry,TI,Title Only,276
+2024,2,Temperature in Electrochemistry,TI,Title Only,275
+2025,2,Temperature in Electrochemistry,TI,Title Only,194
+2026,2,Temperature in Electrochemistry,TI,Title Only,1
+1800,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,3
+1900,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
+1905,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,3
+1908,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
+1912,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
+1920,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
+1929,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
+1931,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
+1932,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
+1939,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
+1946,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
+1949,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2
+1950,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
+1952,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,3
+1953,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
+1954,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2
+1955,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,3
+1956,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
+1957,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2
+1958,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,5
+1959,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,5
+1960,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,3
+1961,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,13
+1962,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,3
+1963,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,3
+1964,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,8
+1965,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,11
+1966,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,20
+1967,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,16
+1968,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,45
+1969,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,56
+1970,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,90
+1971,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,83
+1972,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,87
+1973,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,107
+1974,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,99
+1975,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,120
+1976,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,164
+1977,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,193
+1978,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,185
+1979,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,194
+1980,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,203
+1981,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,277
+1982,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,272
+1983,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,298
+1984,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,284
+1985,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,339
+1986,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,329
+1987,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,388
+1988,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,442
+1989,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,521
+1990,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,609
+1991,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,875
+1992,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,901
+1993,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,988
+1994,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1083
+1995,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1325
+1996,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1676
+1997,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1976
+1998,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1910
+1999,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2312
+2000,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2353
+2001,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2313
+2002,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2715
+2003,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,3106
+2004,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,3511
+2005,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,4127
+2006,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,4619
+2007,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,5450
+2008,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,6491
+2009,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,7217
+2010,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,7573
+2011,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,9114
+2012,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,9800
+2013,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,11045
+2014,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,11946
+2015,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,11914
+2016,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,13266
+2017,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,16191
+2018,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,17167
+2019,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,20877
+2020,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,21094
+2021,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,20866
+2022,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,26771
+2023,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,27590
+2024,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,28831
+2025,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,9725
+2026,2,Temperature in Electrochemistry,TS,Title + Abstract + Keywords,19
+1982,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,1
+1985,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,3
+1986,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,1
+1988,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,3
+1989,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,2
+1990,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,2
+1991,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,5
+1992,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,7
+1993,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,3
+1994,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,8
+1995,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,7
+1996,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,17
+1997,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,23
+1998,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,19
+1999,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,20
+2000,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,23
+2001,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,23
+2002,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,32
+2003,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,31
+2004,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,40
+2005,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,51
+2006,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,63
+2007,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,86
+2008,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,126
+2009,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,135
+2010,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,146
+2011,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,171
+2012,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,197
+2013,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,217
+2014,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,277
+2015,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,301
+2016,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,266
+2017,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,377
+2018,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,359
+2019,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,377
+2020,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,365
+2021,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,317
+2022,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,297
+2023,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,316
+2024,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,282
+2025,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,194
+2026,3,Temperature in Electrochemical Manufacturing,KW,Title + Keywords,1
+1982,3,Temperature in Electrochemical Manufacturing,TI,Title Only,1
+1985,3,Temperature in Electrochemical Manufacturing,TI,Title Only,3
+1986,3,Temperature in Electrochemical Manufacturing,TI,Title Only,1
+1988,3,Temperature in Electrochemical Manufacturing,TI,Title Only,3
+1989,3,Temperature in Electrochemical Manufacturing,TI,Title Only,2
+1990,3,Temperature in Electrochemical Manufacturing,TI,Title Only,1
+1991,3,Temperature in Electrochemical Manufacturing,TI,Title Only,3
+1992,3,Temperature in Electrochemical Manufacturing,TI,Title Only,1
+1993,3,Temperature in Electrochemical Manufacturing,TI,Title Only,2
+1994,3,Temperature in Electrochemical Manufacturing,TI,Title Only,3
+1995,3,Temperature in Electrochemical Manufacturing,TI,Title Only,4
+1996,3,Temperature in Electrochemical Manufacturing,TI,Title Only,12
+1997,3,Temperature in Electrochemical Manufacturing,TI,Title Only,16
+1998,3,Temperature in Electrochemical Manufacturing,TI,Title Only,6
+1999,3,Temperature in Electrochemical Manufacturing,TI,Title Only,4
+2000,3,Temperature in Electrochemical Manufacturing,TI,Title Only,8
+2001,3,Temperature in Electrochemical Manufacturing,TI,Title Only,7
+2002,3,Temperature in Electrochemical Manufacturing,TI,Title Only,4
+2003,3,Temperature in Electrochemical Manufacturing,TI,Title Only,5
+2004,3,Temperature in Electrochemical Manufacturing,TI,Title Only,4
+2005,3,Temperature in Electrochemical Manufacturing,TI,Title Only,10
+2006,3,Temperature in Electrochemical Manufacturing,TI,Title Only,10
+2007,3,Temperature in Electrochemical Manufacturing,TI,Title Only,11
+2008,3,Temperature in Electrochemical Manufacturing,TI,Title Only,19
+2009,3,Temperature in Electrochemical Manufacturing,TI,Title Only,17
+2010,3,Temperature in Electrochemical Manufacturing,TI,Title Only,14
+2011,3,Temperature in Electrochemical Manufacturing,TI,Title Only,11
+2012,3,Temperature in Electrochemical Manufacturing,TI,Title Only,20
+2013,3,Temperature in Electrochemical Manufacturing,TI,Title Only,15
+2014,3,Temperature in Electrochemical Manufacturing,TI,Title Only,33
+2015,3,Temperature in Electrochemical Manufacturing,TI,Title Only,22
+2016,3,Temperature in Electrochemical Manufacturing,TI,Title Only,14
+2017,3,Temperature in Electrochemical Manufacturing,TI,Title Only,39
+2018,3,Temperature in Electrochemical Manufacturing,TI,Title Only,35
+2019,3,Temperature in Electrochemical Manufacturing,TI,Title Only,31
+2020,3,Temperature in Electrochemical Manufacturing,TI,Title Only,23
+2021,3,Temperature in Electrochemical Manufacturing,TI,Title Only,29
+2022,3,Temperature in Electrochemical Manufacturing,TI,Title Only,20
+2023,3,Temperature in Electrochemical Manufacturing,TI,Title Only,31
+2024,3,Temperature in Electrochemical Manufacturing,TI,Title Only,25
+2025,3,Temperature in Electrochemical Manufacturing,TI,Title Only,25
+1800,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
+1900,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1905,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1961,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1964,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1968,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,3
+1969,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,6
+1970,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,10
+1971,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,19
+1972,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,19
+1973,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,22
+1974,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,18
+1975,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,19
+1976,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,29
+1977,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,31
+1978,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,38
+1979,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,34
+1980,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,39
+1981,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,80
+1982,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,65
+1983,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,78
+1984,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,53
+1985,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,70
+1986,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,62
+1987,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,77
+1988,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,99
+1989,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,128
+1990,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,143
+1991,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,194
+1992,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,217
+1993,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,264
+1994,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,273
+1995,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,393
+1996,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,582
+1997,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,820
+1998,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,632
+1999,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1020
+2000,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,988
+2001,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,975
+2002,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1191
+2003,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1385
+2004,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1546
+2005,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1951
+2006,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2407
+2007,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2797
+2008,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,3470
+2009,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,3977
+2010,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,4207
+2011,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,5228
+2012,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,5845
+2013,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,6779
+2014,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,7562
+2015,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,7470
+2016,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,8445
+2017,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,11009
+2018,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,11392
+2019,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,14329
+2020,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,14315
+2021,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,13429
+2022,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,19457
+2023,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,20742
+2024,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,20838
+2025,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,4031
+2026,3,Temperature in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,7
+1952,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,1
+1961,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,1
+1962,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,1
+1966,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,1
+1967,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,2
+1968,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,1
+1969,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,4
+1970,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,2
+1971,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,2
+1973,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,2
+1974,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,3
+1975,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,1
+1976,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,2
+1977,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,4
+1978,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,3
+1979,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,4
+1980,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,2
+1981,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,2
+1982,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,2
+1983,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,4
+1984,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,7
+1985,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,5
+1986,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,2
+1987,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,4
+1988,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,8
+1989,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,6
+1990,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,7
+1991,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,11
+1992,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,15
+1993,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,13
+1994,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,18
+1995,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,18
+1996,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,29
+1997,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,29
+1998,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,27
+1999,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,23
+2000,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,34
+2001,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,36
+2002,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,37
+2003,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,48
+2004,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,49
+2005,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,69
+2006,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,87
+2007,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,122
+2008,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,105
+2009,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,146
+2010,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,143
+2011,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,175
+2012,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,196
+2013,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,240
+2014,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,244
+2015,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,253
+2016,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,284
+2017,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,290
+2018,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,285
+2019,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,273
+2020,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,303
+2021,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,292
+2022,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,274
+2023,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,284
+2024,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,314
+2025,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,242
+2026,4,Elevated-Temperature in Electrochemistry,KW,Title + Keywords,2
+1952,4,Elevated-Temperature in Electrochemistry,TI,Title Only,1
+1961,4,Elevated-Temperature in Electrochemistry,TI,Title Only,1
+1962,4,Elevated-Temperature in Electrochemistry,TI,Title Only,1
+1966,4,Elevated-Temperature in Electrochemistry,TI,Title Only,1
+1967,4,Elevated-Temperature in Electrochemistry,TI,Title Only,2
+1968,4,Elevated-Temperature in Electrochemistry,TI,Title Only,1
+1969,4,Elevated-Temperature in Electrochemistry,TI,Title Only,4
+1970,4,Elevated-Temperature in Electrochemistry,TI,Title Only,2
+1971,4,Elevated-Temperature in Electrochemistry,TI,Title Only,2
+1973,4,Elevated-Temperature in Electrochemistry,TI,Title Only,2
+1974,4,Elevated-Temperature in Electrochemistry,TI,Title Only,3
+1975,4,Elevated-Temperature in Electrochemistry,TI,Title Only,1
+1976,4,Elevated-Temperature in Electrochemistry,TI,Title Only,2
+1977,4,Elevated-Temperature in Electrochemistry,TI,Title Only,4
+1978,4,Elevated-Temperature in Electrochemistry,TI,Title Only,3
+1979,4,Elevated-Temperature in Electrochemistry,TI,Title Only,4
+1980,4,Elevated-Temperature in Electrochemistry,TI,Title Only,2
+1981,4,Elevated-Temperature in Electrochemistry,TI,Title Only,2
+1982,4,Elevated-Temperature in Electrochemistry,TI,Title Only,2
+1983,4,Elevated-Temperature in Electrochemistry,TI,Title Only,4
+1984,4,Elevated-Temperature in Electrochemistry,TI,Title Only,7
+1985,4,Elevated-Temperature in Electrochemistry,TI,Title Only,5
+1986,4,Elevated-Temperature in Electrochemistry,TI,Title Only,2
+1987,4,Elevated-Temperature in Electrochemistry,TI,Title Only,4
+1988,4,Elevated-Temperature in Electrochemistry,TI,Title Only,8
+1989,4,Elevated-Temperature in Electrochemistry,TI,Title Only,5
+1990,4,Elevated-Temperature in Electrochemistry,TI,Title Only,6
+1991,4,Elevated-Temperature in Electrochemistry,TI,Title Only,6
+1992,4,Elevated-Temperature in Electrochemistry,TI,Title Only,8
+1993,4,Elevated-Temperature in Electrochemistry,TI,Title Only,8
+1994,4,Elevated-Temperature in Electrochemistry,TI,Title Only,5
+1995,4,Elevated-Temperature in Electrochemistry,TI,Title Only,5
+1996,4,Elevated-Temperature in Electrochemistry,TI,Title Only,17
+1997,4,Elevated-Temperature in Electrochemistry,TI,Title Only,15
+1998,4,Elevated-Temperature in Electrochemistry,TI,Title Only,11
+1999,4,Elevated-Temperature in Electrochemistry,TI,Title Only,9
+2000,4,Elevated-Temperature in Electrochemistry,TI,Title Only,9
+2001,4,Elevated-Temperature in Electrochemistry,TI,Title Only,11
+2002,4,Elevated-Temperature in Electrochemistry,TI,Title Only,15
+2003,4,Elevated-Temperature in Electrochemistry,TI,Title Only,15
+2004,4,Elevated-Temperature in Electrochemistry,TI,Title Only,17
+2005,4,Elevated-Temperature in Electrochemistry,TI,Title Only,18
+2006,4,Elevated-Temperature in Electrochemistry,TI,Title Only,17
+2007,4,Elevated-Temperature in Electrochemistry,TI,Title Only,32
+2008,4,Elevated-Temperature in Electrochemistry,TI,Title Only,25
+2009,4,Elevated-Temperature in Electrochemistry,TI,Title Only,34
+2010,4,Elevated-Temperature in Electrochemistry,TI,Title Only,30
+2011,4,Elevated-Temperature in Electrochemistry,TI,Title Only,42
+2012,4,Elevated-Temperature in Electrochemistry,TI,Title Only,51
+2013,4,Elevated-Temperature in Electrochemistry,TI,Title Only,50
+2014,4,Elevated-Temperature in Electrochemistry,TI,Title Only,44
+2015,4,Elevated-Temperature in Electrochemistry,TI,Title Only,44
+2016,4,Elevated-Temperature in Electrochemistry,TI,Title Only,55
+2017,4,Elevated-Temperature in Electrochemistry,TI,Title Only,60
+2018,4,Elevated-Temperature in Electrochemistry,TI,Title Only,56
+2019,4,Elevated-Temperature in Electrochemistry,TI,Title Only,45
+2020,4,Elevated-Temperature in Electrochemistry,TI,Title Only,42
+2021,4,Elevated-Temperature in Electrochemistry,TI,Title Only,53
+2022,4,Elevated-Temperature in Electrochemistry,TI,Title Only,64
+2023,4,Elevated-Temperature in Electrochemistry,TI,Title Only,67
+2024,4,Elevated-Temperature in Electrochemistry,TI,Title Only,58
+2025,4,Elevated-Temperature in Electrochemistry,TI,Title Only,44
+2026,4,Elevated-Temperature in Electrochemistry,TI,Title Only,1
+1900,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
+1952,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
+1961,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2
+1962,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2
+1965,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1
+1966,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,3
+1967,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,4
+1968,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,3
+1969,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,6
+1970,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,8
+1971,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,6
+1972,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,8
+1973,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,12
+1974,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,13
+1975,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,7
+1976,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,16
+1977,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,18
+1978,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,18
+1979,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,24
+1980,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,22
+1981,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,35
+1982,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,31
+1983,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,30
+1984,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,28
+1985,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,35
+1986,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,33
+1987,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,32
+1988,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,60
+1989,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,68
+1990,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,86
+1991,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,126
+1992,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,103
+1993,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,139
+1994,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,156
+1995,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,160
+1996,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,238
+1997,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,301
+1998,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,309
+1999,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,489
+2000,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,484
+2001,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,421
+2002,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,483
+2003,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,522
+2004,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,647
+2005,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,726
+2006,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,869
+2007,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1026
+2008,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1195
+2009,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1342
+2010,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1436
+2011,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1688
+2012,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1679
+2013,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2013
+2014,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2058
+2015,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,1992
+2016,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2224
+2017,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2847
+2018,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2684
+2019,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,3211
+2020,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,3278
+2021,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,3452
+2022,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,4262
+2023,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,4453
+2024,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,4807
+2025,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,2038
+2026,4,Elevated-Temperature in Electrochemistry,TS,Title + Abstract + Keywords,7
+1985,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,1
+1988,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,2
+1989,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,1
+1991,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,3
+1992,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,2
+1994,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,2
+1995,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,2
+1996,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,8
+1997,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,7
+1998,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,2
+1999,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,3
+2000,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,3
+2001,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,4
+2002,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,3
+2003,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,4
+2004,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,4
+2005,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,6
+2006,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,6
+2007,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,16
+2008,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,8
+2009,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,13
+2010,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,15
+2011,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,18
+2012,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,17
+2013,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,26
+2014,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,35
+2015,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,29
+2016,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,29
+2017,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,50
+2018,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,41
+2019,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,28
+2020,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,32
+2021,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,36
+2022,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,27
+2023,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,32
+2024,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,31
+2025,5,Elevated-Temperature Electrochemical Manufacturing,KW,Title + Keywords,23
+1985,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,1
+1988,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,2
+1989,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,1
+1991,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,3
+1992,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,1
+1994,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,1
+1995,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,2
+1996,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,8
+1997,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,6
+1998,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,2
+1999,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,1
+2000,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,2
+2001,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,2
+2002,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,2
+2003,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,2
+2004,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,1
+2005,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,2
+2006,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,1
+2007,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,3
+2008,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,3
+2009,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,2
+2010,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,1
+2011,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,2
+2012,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,4
+2013,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,3
+2014,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,7
+2015,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,1
+2016,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,3
+2017,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,3
+2018,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,8
+2019,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,1
+2020,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,4
+2021,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,9
+2022,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,2
+2023,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,4
+2024,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,2
+2025,5,Elevated-Temperature Electrochemical Manufacturing,TI,Title Only,5
+1900,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1969,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1970,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
+1971,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
+1972,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,3
+1973,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,6
+1974,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
+1976,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,4
+1977,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
+1978,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
+1979,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
+1980,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,7
+1981,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,12
+1982,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,12
+1983,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,8
+1984,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
+1985,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,3
+1986,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,8
+1987,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,7
+1988,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,18
+1989,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,18
+1990,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,19
+1991,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,30
+1992,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,23
+1993,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,33
+1994,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,50
+1995,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,48
+1996,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,104
+1997,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,134
+1998,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,130
+1999,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,326
+2000,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,269
+2001,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,242
+2002,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,280
+2003,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,296
+2004,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,378
+2005,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,455
+2006,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,586
+2007,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,684
+2008,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,829
+2009,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,939
+2010,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1005
+2011,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1164
+2012,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1210
+2013,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1468
+2014,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1464
+2015,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1330
+2016,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1483
+2017,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1995
+2018,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1787
+2019,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2119
+2020,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2154
+2021,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2083
+2022,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2806
+2023,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,3050
+2024,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,3177
+2025,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,768
+2026,5,Elevated-Temperature Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
+1000,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,1
+1800,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,6
+1900,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,1
+1901,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,1
+1902,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,1
+1904,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,1
+1905,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,2
+1913,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,1
+1917,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,1
+1918,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,2
+1922,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,1
+1924,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,2
+1925,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,1
+1926,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,4
+1927,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,4
+1928,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,2
+1929,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,1
+1931,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,3
+1932,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,2
+1933,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,1
+1934,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,1
+1935,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,1
+1936,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,3
+1937,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,1
+1938,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,1
+1939,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,1
+1940,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,2
+1941,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,3
+1942,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,4
+1943,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,4
+1944,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,2
+1945,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,1
+1946,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,4
+1947,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,3
+1948,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,2
+1949,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,9
+1950,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,5
+1951,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,5
+1952,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,6
+1953,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,7
+1954,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,13
+1955,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,9
+1956,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,14
+1957,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,10
+1958,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,9
+1959,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,8
+1960,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,16
+1961,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,20
+1962,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,16
+1963,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,11
+1964,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,20
+1965,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,23
+1966,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,55
+1967,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,55
+1968,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,124
+1969,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,88
+1970,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,135
+1971,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,144
+1972,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,192
+1973,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,237
+1974,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,255
+1975,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,287
+1976,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,274
+1977,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,230
+1978,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,248
+1979,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,241
+1980,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,283
+1981,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,358
+1982,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,311
+1983,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,432
+1984,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,414
+1985,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,419
+1986,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,447
+1987,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,517
+1988,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,534
+1989,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,499
+1990,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,551
+1991,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,783
+1992,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,793
+1993,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,825
+1994,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,864
+1995,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,962
+1996,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,1026
+1997,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,1136
+1998,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,1226
+1999,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,1295
+2000,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,1359
+2001,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,1578
+2002,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,2099
+2003,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,2381
+2004,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,2756
+2005,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,3280
+2006,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,4088
+2007,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,4528
+2008,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,5559
+2009,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,6288
+2010,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,6974
+2011,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,7736
+2012,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,8756
+2013,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,9430
+2014,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,10472
+2015,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,10676
+2016,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,11498
+2017,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,12003
+2018,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,12584
+2019,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,13280
+2020,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,13708
+2021,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,13292
+2022,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,13768
+2023,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,13335
+2024,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,13523
+2025,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,6825
+2026,6,Ionic Liquids (All),TS,Title + Abstract + Keywords,5
+1000,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,1
+1955,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,1
+1956,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,1
+1968,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,7
+1969,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,5
+1970,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,10
+1971,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,4
+1972,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,10
+1973,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,17
+1974,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,14
+1975,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,18
+1976,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,17
+1977,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,28
+1978,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,29
+1979,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,27
+1980,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,25
+1981,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,28
+1982,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,17
+1983,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,32
+1984,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,36
+1985,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,22
+1986,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,38
+1987,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,37
+1988,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,53
+1989,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,30
+1990,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,49
+1991,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,54
+1992,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,68
+1993,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,73
+1994,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,86
+1995,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,107
+1996,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,122
+1997,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,142
+1998,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,133
+1999,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,163
+2000,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,205
+2001,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,198
+2002,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,305
+2003,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,333
+2004,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,409
+2005,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,470
+2006,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,592
+2007,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,698
+2008,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,835
+2009,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,1058
+2010,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,1148
+2011,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,1243
+2012,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,1499
+2013,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,1735
+2014,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,1974
+2015,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,1898
+2016,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,2217
+2017,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,2516
+2018,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,2718
+2019,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,3055
+2020,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,3202
+2021,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,2986
+2022,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,3435
+2023,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,3341
+2024,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,3324
+2025,7,ILs in Electrochemistry,TS,Title + Abstract + Keywords,1305
+1000,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1956,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1968,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1971,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1972,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
+1975,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1976,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
+1978,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,3
+1980,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,3
+1981,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,4
+1982,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1983,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,5
+1984,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,8
+1985,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1986,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,6
+1987,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,3
+1988,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,3
+1989,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,7
+1990,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,4
+1991,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,8
+1992,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,11
+1993,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,8
+1994,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,11
+1995,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,24
+1996,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,36
+1997,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,46
+1998,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,37
+1999,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,63
+2000,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,43
+2001,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,61
+2002,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,92
+2003,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,118
+2004,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,132
+2005,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,174
+2006,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,234
+2007,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,272
+2008,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,336
+2009,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,430
+2010,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,463
+2011,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,518
+2012,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,651
+2013,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,805
+2014,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1011
+2015,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,888
+2016,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1124
+2017,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1405
+2018,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1479
+2019,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1840
+2020,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1952
+2021,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1719
+2022,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2259
+2023,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2336
+2024,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2279
+2025,8,ILs in Electrochemical Manufacturing,TS,Title + Abstract + Keywords,507
+1986,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1990,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,1
+1995,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
+1997,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,2
+1998,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,5
+1999,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,15
+2000,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,6
+2001,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,4
+2002,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,6
+2003,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,9
+2004,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,11
+2005,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,10
+2006,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,15
+2007,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,21
+2008,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,21
+2009,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,20
+2010,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,27
+2011,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,27
+2012,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,35
+2013,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,39
+2014,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,55
+2015,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,36
+2016,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,51
+2017,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,62
+2018,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,79
+2019,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,83
+2020,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,99
+2021,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,77
+2022,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,131
+2023,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,100
+2024,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,120
+2025,9,Elevated-T IL Electrochemical Manufacturing,TS,Title + Abstract + Keywords,16
