@@ -148,6 +148,15 @@ st.markdown('<div class="sub-header">Interactive Analysis of Research Publicatio
 col_controls, col_graph = st.columns([1, 2])
 
 with col_controls:
+    # Overview section
+    st.markdown('<div class="control-panel">', unsafe_allow_html=True)
+    st.markdown('<div class="control-title">Overview</div>', unsafe_allow_html=True)
+    st.markdown("""
+    **Interactive analysis tool** for exploring publication trends in ionic liquid research for electrochemistry applications. 
+    Please select topics, search strategies, and time periods to visualize research patterns and growth over the past 50 years.
+    """)
+    st.markdown('</div>', unsafe_allow_html=True)
+    
     st.markdown('<div class="control-panel">', unsafe_allow_html=True)
     st.markdown('<div class="control-title">Analysis Controls</div>', unsafe_allow_html=True)
     
@@ -169,11 +178,18 @@ with col_controls:
     selected_topic_ids = selected_topics
 
     # Search level selection
+    search_strategy_options = {
+        'TS': 'Topic Search (TS) - Title + Abstract + Keywords',
+        'TI': 'Title Only (TI) - Title search only',
+        'KW': 'Keywords & Title (KW) - Title + Keywords'
+    }
+    
     selected_levels = st.multiselect(
         "**Search Strategies**", 
-        options=['TS', 'TI', 'KW'], 
+        options=list(search_strategy_options.keys()),
+        format_func=lambda x: search_strategy_options[x],
         default=['TS'],
-        help="TS: Title+Abstract+Keywords, TI: Title Only, KW: Title+Keywords"
+        help="Choose different search scopes: TS (broadest), TI (most specific), or KW (moderate scope)"
     )
 
     # Year range
@@ -305,12 +321,12 @@ with col1:
 with col2:
     st.markdown("**Search Strategies:**")
     strategy_names = {
-        'TS': 'Title + Abstract + Keywords',
-        'TI': 'Title Only', 
-        'KW': 'Title + Keywords'
+        'TS': 'Topic Search - Title + Abstract + Keywords',
+        'TI': 'Title Only - Title search only', 
+        'KW': 'Keywords & Title - Title + Keywords'
     }
     for level in selected_levels:
-        st.write(f"• {level}: {strategy_names.get(level, level)}")
+        st.write(f"• {strategy_names.get(level, level)}")
 
 with col3:
     st.markdown("**Analysis Parameters:**")
